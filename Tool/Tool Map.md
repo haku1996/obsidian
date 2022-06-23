@@ -1,0 +1,4 @@
+## reconnaissance
+* nmap
+* nslookup
+* 

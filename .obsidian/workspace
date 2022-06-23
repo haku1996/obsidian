@@ -1,0 +1,114 @@
+{
+  "main": {
+    "id": "9d205418d3d2e47e",
+    "type": "split",
+    "children": [
+      {
+        "id": "14ae18fd94c667f0",
+        "type": "leaf",
+        "dimension": 68.31858407079646,
+        "state": {
+          "type": "graph",
+          "state": {}
+        },
+        "group": "7a3ca36da46de558"
+      },
+      {
+        "id": "c2644195b3cb7f33",
+        "type": "leaf",
+        "dimension": 31.68141592920354,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Tool/Reconnaissance/rustscan.md",
+            "mode": "source",
+            "source": false
+          }
+        },
+        "group": "7a3ca36da46de558"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0da84f7d4184135c",
+    "type": "split",
+    "children": [
+      {
+        "id": "662f6334243e1cb9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ba6902fd80991062",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "74d52a3e0fd9854e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "8dabf608ff974e60",
+    "type": "split",
+    "children": [
+      {
+        "id": "cfa722f117e3c6b6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "711c6a96c27a0651",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "14ae18fd94c667f0",
+  "lastOpenFiles": [
+    "Tool/Reconnaissance/rustscan.md",
+    "Tool/Basic Linux.md",
+    "Tool/漏洞利用/msf.md",
+    "Tool/漏洞利用/sqlmap.md",
+    "Tool/netcat.md",
+    "Tool/漏洞利用/msfvenom.md",
+    "Tool/Reconnaissance/nslookup.md",
+    "Tool/Reconnaissance/nmap.md",
+    "Tool/nmap.md",
+    "Tool/Tool Map.md"
+  ]
+}
