@@ -8,8 +8,12 @@
         "type": "leaf",
         "dimension": 68.31858407079646,
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Tool/Reconnaissance/rustscan.md",
+            "mode": "source",
+            "source": false
+          }
         },
         "group": "7a3ca36da46de558"
       },
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Tool/Reconnaissance/rustscan.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,10 +106,10 @@
   "active": "14ae18fd94c667f0",
   "lastOpenFiles": [
     "Tool/Reconnaissance/rustscan.md",
+    "Tool/netcat.md",
     "Tool/Basic Linux.md",
     "Tool/漏洞利用/msf.md",
     "Tool/漏洞利用/sqlmap.md",
-    "Tool/netcat.md",
     "Tool/漏洞利用/msfvenom.md",
     "Tool/Reconnaissance/nslookup.md",
     "Tool/Reconnaissance/nmap.md",
