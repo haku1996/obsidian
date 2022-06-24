@@ -1,8 +1,8 @@
 {
   "commitMessage": "cba's Dell backup: {{date}}",
-  "autoCommitMessage": "vault backup: {{date}}",
-  "commitDateFormat": "YY-MM-DD HH:mm",
-  "autoSaveInterval": 60,
+  "autoCommitMessage": "cba's Dell backup: {{date}}",
+  "commitDateFormat": "YY-MMDD a HH",
+  "autoSaveInterval": 40,
   "autoPushInterval": 0,
   "autoPullInterval": 0,
   "autoPullOnBoot": true,

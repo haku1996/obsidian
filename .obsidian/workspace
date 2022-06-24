@@ -8,8 +8,13 @@
         "type": "leaf",
         "dimension": 68.31858407079646,
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Installed Plugins' Document.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
         },
         "group": "7a3ca36da46de558"
       },
@@ -18,8 +23,13 @@
         "type": "leaf",
         "dimension": 31.68141592920354,
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Installed Plugins' Document.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
         },
         "group": "7a3ca36da46de558"
       }
@@ -77,6 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Installed Plugins' Document.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +122,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Installed Plugins' Document.md"
+              }
             }
           }
         ]
@@ -123,15 +136,15 @@
   },
   "active": "14ae18fd94c667f0",
   "lastOpenFiles": [
+    "Installed Plugins' Document.md",
+    "Journal/Daily Log/6月 24, 2022.md",
     "Legacy.md",
     "Blue.md",
     "未命名.md",
     "2022-06-24.md",
-    "Journal/6月 24, 2022.md",
     "Tool/漏洞利用/sqlmap.md",
     "Excalidraw/Drawing 2022-06-24 09.35.16.excalidraw.md",
     "Excalidraw/Drawing 2022-06-24 09.35.14.excalidraw.md",
-    "Tool/Reconnaissance/rustscan.md",
-    "Tool/netcat.md"
+    "Tool/Reconnaissance/rustscan.md"
   ]
 }
