@@ -16,5 +16,21 @@
       ],
       "key": "P"
     }
+  ],
+  "editor:toggle-source": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "Tab"
+    }
+  ],
+  "command-palette:open": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "T"
+    }
   ]
 }

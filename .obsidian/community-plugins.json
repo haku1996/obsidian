@@ -1,4 +1,10 @@
 [
   "obsidian-git",
-  "dataview"
+  "dataview",
+  "table-editor-obsidian",
+  "calendar",
+  "cm-editor-syntax-highlight-obsidian",
+  "obsidian-kanban",
+  "obsidian-mind-map",
+  "obsidian-excalidraw-plugin"
 ]
