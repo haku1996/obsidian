@@ -1,0 +1,145 @@
+{
+  "workspaces": {
+    "Overview": {
+      "main": {
+        "id": "9d205418d3d2e47e",
+        "type": "split",
+        "children": [
+          {
+            "id": "644a233738c7ef63",
+            "type": "split",
+            "children": [
+              {
+                "id": "944e349547a64f23",
+                "type": "leaf",
+                "dimension": 39.16913946587537,
+                "state": {
+                  "type": "kanban",
+                  "state": {
+                    "file": "任務追蹤.md"
+                  }
+                }
+              },
+              {
+                "id": "7875a1d6b5f6b0c3",
+                "type": "leaf",
+                "dimension": 60.83086053412463,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Journal/Daily Log/0626.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  }
+                }
+              }
+            ],
+            "direction": "horizontal"
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "0da84f7d4184135c",
+        "type": "split",
+        "children": [
+          {
+            "id": "662f6334243e1cb9",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "ba6902fd80991062",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {}
+                }
+              },
+              {
+                "id": "74d52a3e0fd9854e",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 310.5
+      },
+      "right": {
+        "id": "8dabf608ff974e60",
+        "type": "split",
+        "children": [
+          {
+            "id": "cfa722f117e3c6b6",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "711c6a96c27a0651",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "Journal/Daily Log/0626.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "d173bf478f778cba",
+                "type": "leaf",
+                "state": {
+                  "type": "calendar",
+                  "state": {}
+                }
+              },
+              {
+                "id": "4f326b48ee93567d",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  }
+                }
+              },
+              {
+                "id": "e92e11b2537cf898",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "Journal/Daily Log/0626.md"
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 300,
+        "collapsed": true
+      },
+      "active": "7875a1d6b5f6b0c3"
+    }
+  },
+  "active": "Overview"
+}

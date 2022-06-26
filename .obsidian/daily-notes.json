@@ -1,4 +1,5 @@
 {
   "folder": "Journal/Daily Log",
-  "format": "MMM D, YYYY"
+  "format": "MMDD",
+  "autorun": false
 }

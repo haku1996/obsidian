@@ -4,34 +4,37 @@
     "type": "split",
     "children": [
       {
-        "id": "14ae18fd94c667f0",
-        "type": "leaf",
-        "dimension": 68.31858407079646,
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Installed Plugins' Document.md",
-            "mode": "source",
-            "backlinks": true,
-            "source": false
+        "id": "b195fc8a0df2ba2c",
+        "type": "split",
+        "children": [
+          {
+            "id": "e59b6231115236b3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Journal/Daily Log/0626.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "54fabf732147395d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "__/Templater/Week  Templater.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
-        },
-        "group": "7a3ca36da46de558"
-      },
-      {
-        "id": "c2644195b3cb7f33",
-        "type": "leaf",
-        "dimension": 31.68141592920354,
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Installed Plugins' Document.md",
-            "mode": "source",
-            "backlinks": true,
-            "source": false
-          }
-        },
-        "group": "7a3ca36da46de558"
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -71,7 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 308.5
+    "width": 297.5
   },
   "right": {
     "id": "8dabf608ff974e60",
@@ -87,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Installed Plugins' Document.md",
+                "file": "__/Templater/Week  Templater.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +126,34 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Installed Plugins' Document.md"
+                "file": "__/Templater/Week  Templater.md"
+              }
+            }
+          },
+          {
+            "id": "ef596c740039d877",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "ca380026b8135469",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e6a19b84065f1390",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Journal/Daily Log/6月 26, 2022.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
@@ -131,20 +161,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
-  "active": "14ae18fd94c667f0",
+  "active": "54fabf732147395d",
   "lastOpenFiles": [
-    "Installed Plugins' Document.md",
-    "Journal/Daily Log/6月 24, 2022.md",
-    "Legacy.md",
-    "Blue.md",
-    "未命名.md",
-    "2022-06-24.md",
-    "Tool/漏洞利用/sqlmap.md",
-    "Excalidraw/Drawing 2022-06-24 09.35.16.excalidraw.md",
-    "Excalidraw/Drawing 2022-06-24 09.35.14.excalidraw.md",
-    "Tool/Reconnaissance/rustscan.md"
+    "__/Templater/Week  Templater.md",
+    "__/Templater/Tool Use  Templater.md",
+    "__/Templater/Fleeting  Templater.md",
+    "Journal/Daily Log/0626.md",
+    "Journal/Daily Log/6月 26, 2022.md",
+    "Journal/Weekly Plan/2022-W27.md",
+    "Tool/Tool Map.md",
+    "Tool/netcat.md",
+    "Tool/Basic Linux.md",
+    "Tool/Reconnaissance/nmap.md"
   ]
 }

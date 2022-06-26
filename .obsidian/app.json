@@ -2,8 +2,10 @@
   "legacyEditor": false,
   "livePreview": true,
   "showUnsupportedFiles": false,
-  "attachmentFolderPath": "Miscellanous/Image Storage",
+  "attachmentFolderPath": "__/Attachment",
   "fileSortOrder": "alphabetical",
   "promptDelete": false,
-  "newFileLocation": "current"
+  "newFileLocation": "current",
+  "alwaysUpdateLinks": true,
+  "trashOption": "system"
 }
