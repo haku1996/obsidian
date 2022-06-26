@@ -7,3 +7,4 @@ Obsidian Kanban (看板)
 Obsidian Mind Map
 Obsidian Git
 Templater
+a
