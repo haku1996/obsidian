@@ -10,11 +10,11 @@
   "templater-obsidian",
   "sliding-panes-obsidian",
   "nldates-obsidian",
-  "obsidian-day-planner",
   "obsidian-editor-shortcuts",
   "obsidian-advanced-uri",
-  "obsidian-admonition",
   "breadcrumbs",
   "quickadd",
-  "code-block-copy"
+  "code-block-copy",
+  "obsidian-day-planner",
+  "obsidian-admonition"
 ]

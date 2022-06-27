@@ -1,11 +1,16 @@
 {
   "customFolder": "Day Planners",
   "mode": 1,
-  "mermaid": false,
-  "notesToDates": [],
+  "mermaid": true,
+  "notesToDates": [
+    {
+      "notePath": "Journal/Daily Log/2022, 0626.md",
+      "date": "Mon Jun 27 2022"
+    }
+  ],
   "completePastItems": true,
-  "circularProgress": false,
-  "nowAndNextInStatusBar": false,
-  "showTaskNotification": false,
+  "circularProgress": true,
+  "nowAndNextInStatusBar": true,
+  "showTaskNotification": true,
   "timelineZoomLevel": 4
 }
