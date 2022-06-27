@@ -5,12 +5,13 @@
   "calendar",
   "cm-editor-syntax-highlight-obsidian",
   "obsidian-kanban",
-  "templater-obsidian",
-  "obsidian-admonition",
-  "sliding-panes-obsidian",
-  "obsidian-emoji-toolbar",
-  "obsidian-day-planner",
   "obsidian-mind-map",
+  "obsidian-excalidraw-plugin",
+  "templater-obsidian",
+  "sliding-panes-obsidian",
+  "nldates-obsidian",
+  "obsidian-day-planner",
+  "obsidian-editor-shortcuts",
   "obsidian-advanced-uri",
-  "obsidian-editor-shortcuts"
+  "obsidian-admonition"
 ]

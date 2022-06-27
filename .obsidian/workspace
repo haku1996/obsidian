@@ -4,37 +4,32 @@
     "type": "split",
     "children": [
       {
-        "id": "b195fc8a0df2ba2c",
-        "type": "split",
-        "children": [
-          {
-            "id": "e59b6231115236b3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Journal/Daily Log/0626.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "54fabf732147395d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "__/Templater/Week  Templater.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
+        "id": "14ae18fd94c667f0",
+        "type": "leaf",
+        "dimension": 50,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Tool/Reconnaissance/nmap.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
           }
-        ],
-        "direction": "horizontal"
+        }
+      },
+      {
+        "id": "c30981ca63f73e1f",
+        "type": "leaf",
+        "dimension": 50,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "__/Templater/每日記錄用模板.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
+        }
       }
     ],
     "direction": "vertical"
@@ -74,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 297.5
+    "width": 308.5
   },
   "right": {
     "id": "8dabf608ff974e60",
@@ -90,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "__/Templater/Week  Templater.md",
+                "file": "Tool/Reconnaissance/nmap.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,34 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "__/Templater/Week  Templater.md"
-              }
-            }
-          },
-          {
-            "id": "ef596c740039d877",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
-            }
-          }
-        ]
-      },
-      {
-        "id": "ca380026b8135469",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "e6a19b84065f1390",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Journal/Daily Log/6月 26, 2022.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+                "file": "Tool/Reconnaissance/nmap.md"
               }
             }
           }
@@ -163,17 +131,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "54fabf732147395d",
+  "active": "14ae18fd94c667f0",
   "lastOpenFiles": [
+    "Tool/Reconnaissance/nmap.md",
+    "Tool/Reconnaissance/Burp.md",
+    "任務追蹤.md",
+    "技術追蹤.md",
+    "Miscellanous/實習生.md",
+    "__/Templater/每日記錄用模板.md",
     "__/Templater/Week  Templater.md",
+    "__/Templater/WriteUp Templater.md",
     "__/Templater/Tool Use  Templater.md",
-    "__/Templater/Fleeting  Templater.md",
-    "Journal/Daily Log/0626.md",
-    "Journal/Daily Log/6月 26, 2022.md",
-    "Journal/Weekly Plan/2022-W27.md",
-    "Tool/Tool Map.md",
-    "Tool/netcat.md",
-    "Tool/Basic Linux.md",
-    "Tool/Reconnaissance/nmap.md"
+    "Journal/Daily Log/6月 26, 2022.md"
   ]
 }
