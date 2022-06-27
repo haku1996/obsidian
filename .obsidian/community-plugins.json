@@ -14,5 +14,7 @@
   "obsidian-editor-shortcuts",
   "obsidian-advanced-uri",
   "obsidian-admonition",
-  "breadcrumbs"
+  "breadcrumbs",
+  "quickadd",
+  "code-block-copy"
 ]
