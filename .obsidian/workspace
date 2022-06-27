@@ -4,30 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "14ae18fd94c667f0",
+        "id": "ac4156f23605bd37",
         "type": "leaf",
-        "dimension": 50,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Tool/Reconnaissance/nmap.md",
+            "file": "Tool/Reconnaissance/nslookup.md",
             "mode": "source",
             "backlinks": true,
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "c30981ca63f73e1f",
-        "type": "leaf",
-        "dimension": 50,
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "__/Templater/每日記錄用模板.md",
-            "mode": "source",
-            "backlinks": true,
-            "source": false
+            "source": true
           }
         }
       }
@@ -85,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tool/Reconnaissance/nmap.md",
+                "file": "Tool/Reconnaissance/nslookup.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,27 +106,44 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tool/Reconnaissance/nmap.md"
+                "file": "Tool/Reconnaissance/nslookup.md"
               }
             }
+          },
+          {
+            "id": "c780cdff6114bf87",
+            "type": "leaf",
+            "state": {
+              "type": "BC-matrix",
+              "state": {}
+            }
+          },
+          {
+            "id": "630950c518c76303",
+            "type": "leaf",
+            "state": {
+              "type": "BC-tree",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
     "width": 300
   },
-  "active": "14ae18fd94c667f0",
+  "active": "ac4156f23605bd37",
   "lastOpenFiles": [
-    "Tool/Reconnaissance/nmap.md",
-    "Tool/Reconnaissance/Burp.md",
-    "任務追蹤.md",
-    "技術追蹤.md",
-    "Miscellanous/實習生.md",
-    "__/Templater/每日記錄用模板.md",
-    "__/Templater/Week  Templater.md",
-    "__/Templater/WriteUp Templater.md",
-    "__/Templater/Tool Use  Templater.md",
-    "Journal/Daily Log/6月 26, 2022.md"
+    "Tool/Reconnaissance/nslookup.md",
+    "Tool/Use/msf.md",
+    "__/Templater/123.md",
+    "Tool/Reconnaissance/rustscan.md",
+    "__/Templater/Fleeting.md",
+    "__/Templater/Daily.md",
+    "__/Templater/Tool.md",
+    "__/Templater/Week.md",
+    "__/Templater/WriteUp.md",
+    "Tool/Reconnaissance/Burp.md"
   ]
 }
