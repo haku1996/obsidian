@@ -1,1 +1,8 @@
-MyFileContent
+Date:: 06-27
+aliases:: [,]
+
+---
+<< [[2022, 0626]] | [[2022, 0628]] >>
+
+
+🔥 Priority 1
