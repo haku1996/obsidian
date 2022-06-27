@@ -20,13 +20,8 @@
         "id": "7dd4acf554da250d",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Journal/Weekly Plan/未命名.md",
-            "mode": "source",
-            "backlinks": true,
-            "source": false
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -84,7 +79,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/Weekly Plan/未命名.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,9 +113,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Journal/Weekly Plan/未命名.md"
-              }
+              "state": {}
             }
           },
           {
@@ -172,11 +164,11 @@
   "active": "7dd4acf554da250d",
   "lastOpenFiles": [
     "Journal/Weekly Plan/未命名.md",
+    "__/Templater/Week.md",
     "Miscellanous/待整理/0630.md",
     "Miscellanous/待整理/0629.md",
     "Miscellanous/待整理/0628.md",
     "Miscellanous/待整理/0627.md",
-    "__/Templater/Week.md",
     "__/Templater/WriteUp.md",
     "__/Templater/Tool.md",
     "__/Templater/Fleeting.md",
