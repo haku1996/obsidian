@@ -16,5 +16,10 @@
   "quickadd",
   "code-block-copy",
   "obsidian-day-planner",
-  "obsidian-admonition"
+  "obsidian-admonition",
+  "obsidian-plugin-toc",
+  "obsidian-dynamic-toc",
+  "obsidian-style-settings",
+  "obsidian-minimal-settings",
+  "obsidian-hider"
 ]

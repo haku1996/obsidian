@@ -1,4 +1,1 @@
-## reconnaissance
-* nmap
-* nslookup
-* 
+# [[sqlmap]]

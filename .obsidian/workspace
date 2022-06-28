@@ -4,24 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "2eecca6aa05fd206",
+        "id": "994591b00e0bd990",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Tool/Reconnaissance/MyFilename.md",
-            "mode": "preview",
+            "file": "玉山銀行.md",
+            "mode": "source",
             "backlinks": true,
             "source": false
           }
-        }
-      },
-      {
-        "id": "7dd4acf554da250d",
-        "type": "leaf",
-        "state": {
-          "type": "graph",
-          "state": {}
         }
       }
     ],
@@ -49,7 +41,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "dataview",
+                "query": "爆破",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -62,7 +54,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 291.5
+    "width": 336.5
   },
   "right": {
     "id": "8dabf608ff974e60",
@@ -79,6 +71,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "玉山銀行.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +106,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "玉山銀行.md"
+              }
             }
           },
           {
@@ -140,7 +135,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 4
       },
       {
         "id": "3ca23e1cc8226cf6",
@@ -159,19 +155,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 655.5
+    "width": 411.5
   },
-  "active": "7dd4acf554da250d",
+  "active": "994591b00e0bd990",
   "lastOpenFiles": [
-    "Journal/Weekly Plan/未命名.md",
-    "__/Templater/Week.md",
-    "Miscellanous/待整理/0630.md",
-    "Miscellanous/待整理/0629.md",
-    "Miscellanous/待整理/0628.md",
-    "Miscellanous/待整理/0627.md",
-    "__/Templater/WriteUp.md",
+    "玉山銀行.md",
+    "999 任務追蹤.md",
+    "Tool/sqlmap/sqlmap note.md",
+    "Tool/sqlmap/sqlmap.md",
+    "Tool/Tool Map.md",
     "__/Templater/Tool.md",
-    "__/Templater/Fleeting.md",
-    "__/Templater/Daily.md"
+    "Tool/Use/msfvenom.md",
+    "Obs 套件使用/Admonition.md",
+    "200 今日更動.md",
+    "__/Templater/WriteUp.md"
   ]
 }

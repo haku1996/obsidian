@@ -29,20 +29,20 @@ This is in the original admonition.
 ### Reference
 [Source from Official Doc.](https://github.com/valentine195/obsidian-admonition)
 
-| Type     | Aliases                     |
-| -------- | --------------------------- |
-| note     | note, seealso               |
-| abstract | abstract, summary, tldr     |
-| info     | info, todo                  |
-| tip      | tip, hint, important        |
-| success  | success, check, done        |
-| question | question, help, faq         |
-| warning  | warning, caution, attention |
-| failure  | failure, fail, missing      |
-| danger   | danger, error               |
-| bug      | bug                         |
-| example  | example                     |
-| quote    | quote, cite                 |
+| Type               | Aliases                     |
+| ------------------ | --------------------------- |
+| note               | note, seealso               |
+| abstract           | abstract, summary, tldr     |
+| info               | info, todo                  |
+| tip                | tip, hint, important        |
+| success            | success, check, done        |
+| question           | question, help, faq         |
+| warning            | warning, caution, attention |
+| failure            | failure, fail, missing      |
+| danger             | danger, error               |
+| bug                | bug                         |
+| example            | example                     |
+| quote              | quote, cite                 |
 
 ```ad-note
 ```
