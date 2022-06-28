@@ -3,5 +3,9 @@
   "cssTheme": "Minimal",
   "textFontFamily": "Verdana,Microsoft JhengHei",
   "interfaceFontFamily": "Verdana,Microsoft JhengHei",
-  "monospaceFontFamily": "Hack"
+  "monospaceFontFamily": "Hack",
+  "enabledCssSnippets": [
+    "mycss",
+    "mycolor"
+  ]
 }

