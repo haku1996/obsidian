@@ -1,17 +1,14 @@
 {
-  "minimal-style@@text-code@@dark": "#83A598",
-  "minimal-style@@active-line-on": false,
+  "minimal-style@@h1": "36px",
+  "minimal-style@@h2": "32px",
+  "minimal-style@@h3": "28px",
+  "minimal-style@@h4": "24px",
+  "minimal-style@@h5": "20px",
+  "minimal-style@@h6": "16px",
+  "minimal-style@@icon-muted": 1,
   "minimal-style@@h1-color@@dark": "#CC241D",
   "minimal-style@@h2-color@@dark": "#D65D0E",
-  "minimal-style@@h3-color@@dark": "#D79921",
-  "minimal-style@@h1": "2.25em",
-  "minimal-style@@h2": "1.75em",
-  "minimal-style@@h3": "1.5em",
-  "minimal-style@@h4": "1.2em",
-  "minimal-style@@h5": "1em",
-  "minimal-style@@tx1@@dark": "#FBF1C7",
-  "minimal-style@@accent@@dark": "#FBF1C7",
-  "minimal-style@@tab-style": "tab-style-1",
-  "minimal-style@@icon-muted": 1,
-  "minimal-style@@title-size": "1.5em"
+  "minimal-style@@h3-color@@dark": "#D77921",
+  "minimal-style@@ax1@@dark": "#3A80E5",
+  "minimal-style@@text-code@@dark": "#83A598"
 }

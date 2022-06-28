@@ -4,8 +4,5 @@
   "textFontFamily": "Verdana,Microsoft JhengHei",
   "interfaceFontFamily": "Verdana,Microsoft JhengHei",
   "monospaceFontFamily": "Hack",
-  "enabledCssSnippets": [
-    "mycss",
-    "mycolor"
-  ]
+  "enabledCssSnippets": []
 }
