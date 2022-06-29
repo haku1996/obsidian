@@ -7,8 +7,13 @@
         "id": "4aedcc2d51380cd4",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Tool/Burp.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
         }
       }
     ],
@@ -49,7 +54,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 310.5
+    "width": 100
   },
   "right": {
     "id": "8dabf608ff974e60",
@@ -65,6 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Tool/Burp.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +105,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Tool/Burp.md"
+              }
             }
           },
           {
@@ -167,10 +175,11 @@
       }
     ],
     "direction": "horizontal",
-    "width": 630.5
+    "width": 100
   },
   "active": "4aedcc2d51380cd4",
   "lastOpenFiles": [
+    "Tool/Burp.md",
     "Journal/Daily Log/2022, 0627.md",
     "2022-W27.md",
     "Journal/Daily Log/2022, 0628.md",
@@ -179,7 +188,6 @@
     "__/Templater/Daily.md",
     "__/Templater/123.md",
     "__/Templater/Card.md",
-    "Miscellanous/待整理/0629.md",
-    "Journal/Weekly Plan/未命名.md"
+    "Miscellanous/待整理/0629.md"
   ]
 }
