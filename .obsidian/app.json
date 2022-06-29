@@ -8,5 +8,11 @@
   "newFileLocation": "folder",
   "alwaysUpdateLinks": true,
   "trashOption": "system",
-  "newFileFolderPath": "Miscellanous/待整理"
+  "newFileFolderPath": "Miscellanous/待整理",
+  "pdfExportSettings": {
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  }
 }
