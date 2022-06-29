@@ -1,11 +1,11 @@
 {
-  "collapse-filter": false,
+  "collapse-filter": true,
   "search": "",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": false,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
       "query": "path:Journal",
@@ -17,14 +17,14 @@
   ],
   "collapse-display": false,
   "showArrow": false,
-  "textFadeMultiplier": -1,
-  "nodeSizeMultiplier": 1,
-  "lineSizeMultiplier": 1,
+  "textFadeMultiplier": -3,
+  "nodeSizeMultiplier": 2.1125,
+  "lineSizeMultiplier": 2.0625,
   "collapse-forces": true,
   "centerStrength": 0.514044943820225,
   "repelStrength": 0,
   "linkStrength": 1,
   "linkDistance": 500,
-  "scale": 0.5630375802032102,
-  "close": false
+  "scale": 0.40160089049326525,
+  "close": true
 }

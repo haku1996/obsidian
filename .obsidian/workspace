@@ -4,16 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "4aedcc2d51380cd4",
+        "id": "730eee5dde172c38",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Miscellanous/待整理/未命名.md",
-            "mode": "source",
-            "backlinks": true,
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -63,6 +58,7 @@
       {
         "id": "cfa722f117e3c6b6",
         "type": "tabs",
+        "dimension": 33.36653386454183,
         "children": [
           {
             "id": "711c6a96c27a0651",
@@ -70,7 +66,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Miscellanous/待整理/未命名.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,9 +100,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Miscellanous/待整理/未命名.md"
-              }
+              "state": {}
             }
           },
           {
@@ -146,8 +139,9 @@
         "currentTab": 7
       },
       {
-        "id": "6de29a8aed34043b",
+        "id": "d42b3c6484352d7c",
         "type": "tabs",
+        "dimension": 46.71314741035857,
         "children": [
           {
             "id": "dfd54bfb0399cc3c",
@@ -162,6 +156,7 @@
       {
         "id": "1c081a233ed88880",
         "type": "tabs",
+        "dimension": 19.9203187250996,
         "children": [
           {
             "id": "c0407d408599d2df",
@@ -175,19 +170,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 224.5
+    "width": 584.5
   },
-  "active": "4aedcc2d51380cd4",
+  "active": "730eee5dde172c38",
   "lastOpenFiles": [
-    "Miscellanous/待整理/未命名.md",
-    "Tool/Burp.md",
-    "Journal/Daily Log/2022, 0627.md",
+    "玉山銀行.md",
     "2022-W27.md",
-    "Journal/Daily Log/2022, 0628.md",
-    "Miscellanous/待整理/0630.md",
-    "__/Templater/Tool.md",
-    "__/Templater/Daily.md",
-    "__/Templater/123.md",
-    "__/Templater/Card.md"
+    "999 任務追蹤.md",
+    "Writeup/HTB/Lame.md",
+    "000 本周更動.md",
+    "Writeup/未命名.md",
+    "Tool/Basic Linux.md",
+    "Tool/Tool Map.md",
+    "Tool/netcat.md",
+    "Tool/Burp.md"
   ]
 }
