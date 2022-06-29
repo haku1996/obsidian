@@ -4,68 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "7875a1d6b5f6b0c3",
+        "id": "4aedcc2d51380cd4",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "__/Templater/Card.md",
-            "mode": "source",
-            "backlinks": true,
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "d515ad0e14491b2d",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "__/Templater/123.md",
-            "mode": "source",
-            "backlinks": true,
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "1bd029e024b2fc6f",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "__/Templater/Daily.md",
-            "mode": "source",
-            "backlinks": true,
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "9947f45147a3887b",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "__/Templater/Tool.md",
-            "mode": "source",
-            "backlinks": true,
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "843c197d64f26fff",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "__/Templater/Card.md",
-            "mode": "source",
-            "backlinks": true,
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -122,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "__/Templater/Card.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,29 +99,87 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "__/Templater/Card.md"
-              }
+              "state": {}
+            }
+          },
+          {
+            "id": "2520a9cd2f109878",
+            "type": "leaf",
+            "state": {
+              "type": "BC-matrix",
+              "state": {}
+            }
+          },
+          {
+            "id": "dcb61eb66c94e544",
+            "type": "leaf",
+            "state": {
+              "type": "BC-ducks",
+              "state": {}
+            }
+          },
+          {
+            "id": "9c95e6b49dd91f7c",
+            "type": "leaf",
+            "state": {
+              "type": "BC-tree",
+              "state": {}
+            }
+          },
+          {
+            "id": "c2c7c306d9188881",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 7
+      },
+      {
+        "id": "6de29a8aed34043b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dfd54bfb0399cc3c",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "1c081a233ed88880",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c0407d408599d2df",
+            "type": "leaf",
+            "state": {
+              "type": "timeline",
+              "state": {}
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 630.5
   },
-  "active": "843c197d64f26fff",
+  "active": "4aedcc2d51380cd4",
   "lastOpenFiles": [
-    "__/Templater/Card.md",
+    "Journal/Daily Log/2022, 0627.md",
+    "2022-W27.md",
+    "Journal/Daily Log/2022, 0628.md",
+    "Miscellanous/待整理/0630.md",
     "__/Templater/Tool.md",
     "__/Templater/Daily.md",
     "__/Templater/123.md",
-    "Journal/Weekly Plan/未命名.md",
-    "Tool/sqlmap/sqlmap note.md",
-    "玉山銀行.md",
-    "999 任務追蹤.md",
-    "200 今日更動.md",
-    "100 技術追蹤.md"
+    "__/Templater/Card.md",
+    "Miscellanous/待整理/0629.md",
+    "Journal/Weekly Plan/未命名.md"
   ]
 }
