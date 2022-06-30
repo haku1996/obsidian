@@ -2,12 +2,12 @@
   "choices": [
     {
       "id": "e9dfe03a-9ca1-4c56-8711-d41dfefebc50",
-      "name": "123",
+      "name": "Kanban New Note",
       "type": "Template",
       "command": false,
       "templatePath": "",
       "fileNameFormat": {
-        "enabled": false,
+        "enabled": true,
         "format": ""
       },
       "folder": {
@@ -53,7 +53,7 @@
       "openFileInMode": "default"
     },
     {
-      "id": "c5788a2f-e584-4247-b39e-0aa2a0244913",
+      "id": "d54c52d8-0a0c-484a-b09a-de9d572dd748",
       "name": "新增待辦事項",
       "type": "Capture",
       "command": true,
@@ -67,7 +67,7 @@
       },
       "format": {
         "enabled": true,
-        "format": "- [ ] {{VALUE:待辦事項?}} @{{VDATE:Due Date?,M/DD@@{HH:mm}}}\n"
+        "format": "- [ ] {{VALUE:待辦事項}}"
       },
       "insertAfter": {
         "enabled": true,
@@ -87,8 +87,8 @@
       "openFileInMode": "default"
     },
     {
-      "id": "d54c52d8-0a0c-484a-b09a-de9d572dd748",
-      "name": "新增待辦事項(已確認時間)",
+      "id": "c5788a2f-e584-4247-b39e-0aa2a0244913",
+      "name": "新增待辦事項 with DueDate",
       "type": "Capture",
       "command": true,
       "appendLink": false,
@@ -101,7 +101,7 @@
       },
       "format": {
         "enabled": true,
-        "format": "- [ ] {{VALUE:待辦事項}}@@{{VDATE:data,YYYY}}"
+        "format": "- [ ] {{VALUE:待辦事項?}} @[[{{VDATE:Due Date? (format:M/d HHmm),MM/DD]]@@{HH:mm}}}\n"
       },
       "insertAfter": {
         "enabled": true,

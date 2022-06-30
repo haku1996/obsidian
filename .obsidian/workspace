@@ -4,42 +4,29 @@
     "type": "split",
     "children": [
       {
-        "id": "e7d80dc43bfb011e",
-        "type": "leaf",
-        "state": {
-          "type": "empty",
-          "state": {}
-        }
-      },
-      {
-        "id": "11dab18cf5c692c0",
-        "type": "leaf",
-        "state": {
-          "type": "kanban",
-          "state": {
-            "file": "999 任務追蹤.md"
+        "id": "644a233738c7ef63",
+        "type": "split",
+        "children": [
+          {
+            "id": "944e349547a64f23",
+            "type": "leaf",
+            "dimension": 39.16913946587537,
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "7875a1d6b5f6b0c3",
+            "type": "leaf",
+            "dimension": 60.83086053412463,
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
-        }
-      },
-      {
-        "id": "fa0038e2dfb91e51",
-        "type": "leaf",
-        "state": {
-          "type": "kanban",
-          "state": {
-            "file": "999 任務追蹤.md"
-          }
-        }
-      },
-      {
-        "id": "667cc6380afc5d5a",
-        "type": "leaf",
-        "state": {
-          "type": "kanban",
-          "state": {
-            "file": "999 任務追蹤.md"
-          }
-        }
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -66,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "sqlmap",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -79,7 +66,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 377
+    "width": 310.5
   },
   "right": {
     "id": "8dabf608ff974e60",
@@ -88,7 +75,6 @@
       {
         "id": "cfa722f117e3c6b6",
         "type": "tabs",
-        "dimension": 33.36653386454183,
         "children": [
           {
             "id": "711c6a96c27a0651",
@@ -96,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "999 任務追蹤.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,37 +116,19 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "999 任務追蹤.md"
-              }
-            }
-          },
-          {
-            "id": "2520a9cd2f109878",
-            "type": "leaf",
-            "state": {
-              "type": "BC-matrix",
               "state": {}
             }
           },
           {
-            "id": "dcb61eb66c94e544",
+            "id": "ebdee09c3c465e87",
             "type": "leaf",
             "state": {
-              "type": "BC-ducks",
+              "type": "todo",
               "state": {}
             }
           },
           {
-            "id": "9c95e6b49dd91f7c",
-            "type": "leaf",
-            "state": {
-              "type": "BC-tree",
-              "state": {}
-            }
-          },
-          {
-            "id": "c2c7c306d9188881",
+            "id": "8792efcb10e06581",
             "type": "leaf",
             "state": {
               "type": "advanced-tables-toolbar",
@@ -169,53 +136,23 @@
             }
           }
         ],
-        "currentTab": 7
-      },
-      {
-        "id": "d42b3c6484352d7c",
-        "type": "tabs",
-        "dimension": 46.71314741035857,
-        "children": [
-          {
-            "id": "dfd54bfb0399cc3c",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          }
-        ]
-      },
-      {
-        "id": "1c081a233ed88880",
-        "type": "tabs",
-        "dimension": 19.9203187250996,
-        "children": [
-          {
-            "id": "c0407d408599d2df",
-            "type": "leaf",
-            "state": {
-              "type": "timeline",
-              "state": {}
-            }
-          }
-        ]
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 100
+    "width": 300
   },
-  "active": "11dab18cf5c692c0",
+  "active": "7875a1d6b5f6b0c3",
   "lastOpenFiles": [
+    "Workflow/Miscellanous/Kanban/玉山銀行.md",
     "999 任務追蹤.md",
-    "200 今日更動.md",
-    "123.md",
+    "Note/__/Templater/卡片模板.md",
+    "Workflow/Miscellanous/Kanban/jiji.md",
+    "玉山銀行.md",
     "100 技術追蹤.md",
-    "Buttons.md",
-    "Note/Obs 套件使用/Templater.md",
-    "Note/Obs 套件使用/Qucikadd.md",
-    "Note/Obs 套件使用/Dataview.md",
-    "Note/Obs 套件使用/Breadcrumbs.md",
-    "Note/Obs 套件使用/Admonition.md"
+    "Journal/Daily Log/2022, 0628.md",
+    "200 今日更動.md",
+    "000 本周更動.md",
+    "Workflow/Miscellanous/Kanban/1222.md"
   ]
 }
