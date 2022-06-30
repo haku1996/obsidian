@@ -27,32 +27,6 @@
       "openFileInMode": "default"
     },
     {
-      "id": "8cf70173-4f99-4c53-8263-26cc171039d5",
-      "name": "123",
-      "type": "Template",
-      "command": false,
-      "templatePath": "",
-      "fileNameFormat": {
-        "enabled": false,
-        "format": ""
-      },
-      "folder": {
-        "enabled": false,
-        "folders": [],
-        "chooseWhenCreatingNote": false,
-        "createInSameFolderAsActiveFile": false
-      },
-      "appendLink": false,
-      "incrementFileName": false,
-      "openFileInNewTab": {
-        "enabled": false,
-        "direction": "vertical",
-        "focus": true
-      },
-      "openFile": false,
-      "openFileInMode": "default"
-    },
-    {
       "id": "d54c52d8-0a0c-484a-b09a-de9d572dd748",
       "name": "新增待辦事項",
       "type": "Capture",
@@ -119,8 +93,97 @@
       },
       "openFile": false,
       "openFileInMode": "default"
+    },
+    {
+      "id": "f4b847a2-7e6c-475c-a023-ed1c7d816247",
+      "name": "After Kanban's New Card",
+      "type": "Multi",
+      "command": true,
+      "choices": [
+        {
+          "id": "8cf70173-4f99-4c53-8263-26cc171039d5",
+          "name": "123",
+          "type": "Template",
+          "command": false,
+          "templatePath": "",
+          "fileNameFormat": {
+            "enabled": false,
+            "format": ""
+          },
+          "folder": {
+            "enabled": false,
+            "folders": [],
+            "chooseWhenCreatingNote": false,
+            "createInSameFolderAsActiveFile": false
+          },
+          "appendLink": false,
+          "incrementFileName": false,
+          "openFileInNewTab": {
+            "enabled": false,
+            "direction": "vertical",
+            "focus": true
+          },
+          "openFile": false,
+          "openFileInMode": "default"
+        }
+      ],
+      "collapsed": false
+    },
+    {
+      "id": "bb8ea031-2d27-4411-b5f1-c74d02a12261",
+      "name": "aa",
+      "type": "Capture",
+      "command": false,
+      "appendLink": false,
+      "captureTo": "",
+      "captureToActiveFile": true,
+      "createFileIfItDoesntExist": {
+        "enabled": false,
+        "createWithTemplate": false,
+        "template": ""
+      },
+      "format": {
+        "enabled": true,
+        "format": ""
+      },
+      "insertAfter": {
+        "enabled": false,
+        "after": "",
+        "insertAtEnd": false,
+        "createIfNotFound": false,
+        "createIfNotFoundLocation": "top"
+      },
+      "prepend": false,
+      "task": false,
+      "openFileInNewTab": {
+        "enabled": false,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": false,
+      "openFileInMode": "default"
+    },
+    {
+      "id": "8edd268b-f284-4768-bda8-e999755c4f66",
+      "name": "Add tags",
+      "type": "Macro",
+      "command": true,
+      "macroId": "a6b4559a-338e-4d2c-84a3-de2e17990e96"
     }
   ],
-  "macros": [],
+  "macros": [
+    {
+      "name": "Add tags",
+      "id": "a6b4559a-338e-4d2c-84a3-de2e17990e96",
+      "commands": [],
+      "runOnStartup": false
+    },
+    {
+      "name": "123",
+      "id": "a5108295-b162-4ba4-b616-c3af4a39f486",
+      "commands": [],
+      "runOnStartup": false
+    }
+  ],
   "inputPrompt": "single-line"
 }
