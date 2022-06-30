@@ -4,11 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "730eee5dde172c38",
+        "id": "60317b02473c639d",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "__/Templater/工作日誌.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
         }
       }
     ],
@@ -36,7 +41,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "sqlmap",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -49,7 +54,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 259
+    "width": 377
   },
   "right": {
     "id": "8dabf608ff974e60",
@@ -66,6 +71,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "__/Templater/工作日誌.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +106,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "__/Templater/工作日誌.md"
+              }
             }
           },
           {
@@ -170,19 +178,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 584.5
+    "width": 100
   },
-  "active": "730eee5dde172c38",
+  "active": "60317b02473c639d",
   "lastOpenFiles": [
-    "玉山銀行.md",
-    "2022-W27.md",
-    "999 任務追蹤.md",
-    "Writeup/HTB/Lame.md",
+    "__/Templater/工作日誌.md",
+    "__/Templater/Card.md",
+    "__/Templater/Tool.md",
+    "__/Templater/123.md",
+    "200 今日更動.md",
     "000 本周更動.md",
-    "Writeup/未命名.md",
-    "Tool/Basic Linux.md",
-    "Tool/Tool Map.md",
-    "Tool/netcat.md",
-    "Tool/Burp.md"
+    "100 技術追蹤.md",
+    "Tool/sqlmap/sqlmap note.md",
+    "玉山銀行.md",
+    "2022-W27.md"
   ]
 }
