@@ -1,9 +1,11 @@
 {
-  "new-note-folder": "__/待整理",
+  "new-note-folder": "Workflow/Miscellanous/Kanban",
   "date-display-format": "M/DD",
   "show-relative-date": true,
   "link-date-to-daily-note": true,
   "hide-date-in-title": false,
   "hide-date-display": true,
-  "date-picker-week-start": 1
+  "date-picker-week-start": 1,
+  "new-note-template": "Note/__/Templater/卡片模板.md",
+  "show-checkboxes": true
 }

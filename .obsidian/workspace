@@ -4,15 +4,40 @@
     "type": "split",
     "children": [
       {
-        "id": "60317b02473c639d",
+        "id": "e7d80dc43bfb011e",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "empty",
+          "state": {}
+        }
+      },
+      {
+        "id": "11dab18cf5c692c0",
+        "type": "leaf",
+        "state": {
+          "type": "kanban",
           "state": {
-            "file": "__/Templater/工作日誌.md",
-            "mode": "source",
-            "backlinks": true,
-            "source": false
+            "file": "999 任務追蹤.md"
+          }
+        }
+      },
+      {
+        "id": "fa0038e2dfb91e51",
+        "type": "leaf",
+        "state": {
+          "type": "kanban",
+          "state": {
+            "file": "999 任務追蹤.md"
+          }
+        }
+      },
+      {
+        "id": "667cc6380afc5d5a",
+        "type": "leaf",
+        "state": {
+          "type": "kanban",
+          "state": {
+            "file": "999 任務追蹤.md"
           }
         }
       }
@@ -71,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "__/Templater/工作日誌.md",
+                "file": "999 任務追蹤.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +132,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "__/Templater/工作日誌.md"
+                "file": "999 任務追蹤.md"
               }
             }
           },
@@ -180,17 +205,17 @@
     "direction": "horizontal",
     "width": 100
   },
-  "active": "60317b02473c639d",
+  "active": "11dab18cf5c692c0",
   "lastOpenFiles": [
-    "__/Templater/工作日誌.md",
-    "__/Templater/Card.md",
-    "__/Templater/Tool.md",
-    "__/Templater/123.md",
+    "999 任務追蹤.md",
     "200 今日更動.md",
-    "000 本周更動.md",
+    "123.md",
     "100 技術追蹤.md",
-    "Tool/sqlmap/sqlmap note.md",
-    "玉山銀行.md",
-    "2022-W27.md"
+    "Buttons.md",
+    "Note/Obs 套件使用/Templater.md",
+    "Note/Obs 套件使用/Qucikadd.md",
+    "Note/Obs 套件使用/Dataview.md",
+    "Note/Obs 套件使用/Breadcrumbs.md",
+    "Note/Obs 套件使用/Admonition.md"
   ]
 }
