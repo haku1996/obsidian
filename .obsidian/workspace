@@ -9,7 +9,20 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "200 今日更動.md",
+            "file": "Note/Obs 套件使用/Dataview.md",
+            "mode": "preview",
+            "backlinks": true,
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "0c1f58eebd103922",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Workflow/Miscellanous/Kanban/xxxxxx.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -96,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "200 今日更動.md",
+                "file": "Note/Obs 套件使用/Dataview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "200 今日更動.md"
+                "file": "Note/Obs 套件使用/Dataview.md"
               }
             }
           },
@@ -186,15 +199,15 @@
   },
   "active": "f94f4f5286e13eba",
   "lastOpenFiles": [
-    "200 今日更動.md",
-    "999 任務追蹤.md",
+    "Note/Obs 套件使用/Dataview.md",
     "000 本周更動.md",
-    "Workflow/Miscellanous/Kanban/uuu.md",
-    "Note/__/Templater/日記模板.md",
-    "玉山銀行.md",
-    "Note/__/Templater/Tool.md",
-    "Note/__/Templater/WriteUp.md",
-    "Note/__/Templater/123.md",
-    "Workflow/Miscellanous/待整理/學 Dataview.md"
+    "200 今日更動.md",
+    "Workflow/Miscellanous/Kanban/xxxxxx.md",
+    "999 任務追蹤.md",
+    "Note/Writeup/HTB/Lame.md",
+    "Note/Obs 套件使用/Breadcrumbs.md",
+    "Note/Obs 套件使用/Admonition.md",
+    "未命名.md",
+    "Workflow/Miscellanous/Kanban/uuu.md"
   ]
 }
