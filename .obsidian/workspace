@@ -9,10 +9,20 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Note/Tool/sqlmap/sqlmap.md",
+            "file": "Journal/Daily Log/2022, 0706.md",
             "mode": "source",
             "backlinks": true,
             "source": false
+          }
+        }
+      },
+      {
+        "id": "87446a66eb4dcb00",
+        "type": "leaf",
+        "state": {
+          "type": "kanban",
+          "state": {
+            "file": "999 任務追蹤.md"
           }
         }
       },
@@ -35,7 +45,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Note/Tool/sqlmap/sqlmap.md",
+            "file": "Journal/Daily Log/2022, 0706.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -109,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Note/Tool/sqlmap/sqlmap.md",
+                "file": "Journal/Daily Log/2022, 0706.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Note/Tool/sqlmap/sqlmap.md"
+                "file": "Journal/Daily Log/2022, 0706.md"
               }
             }
           },
@@ -197,17 +207,17 @@
     "width": 349.5,
     "collapsed": true
   },
-  "active": "0c1f58eebd103922",
+  "active": "e271d298008e47e3",
   "lastOpenFiles": [
+    "Journal/Daily Log/2022, 0706.md",
+    "Note/Tool/sqlmap/sqkmap Record.md",
     "Note/Tool/sqlmap/sqlmap.md",
     "Note/Tool/sqlmap/sqlmap note.md",
+    "999 任務追蹤.md",
     "Note/__/Templater/Tool.md",
     "000 本周更動.md",
-    "Journal/Daily Log/2022, 0706.md",
     "Journal/Daily Log/2022, 0703.md",
     "Note/__/Templater/日記模板.md",
-    "Workflow/Miscellanous/Kanban/xxxxxx.md",
-    "__/Excalidraw/Drawing 2022-07-03 01.56.26.excalidraw.md",
-    "__/Excalidraw/Drawing 2022-07-03 01.56.24.excalidraw.md"
+    "Workflow/Miscellanous/Kanban/xxxxxx.md"
   ]
 }
