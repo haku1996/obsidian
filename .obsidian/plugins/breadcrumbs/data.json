@@ -16,25 +16,18 @@
   "dendronNoteField": "up",
   "dvWaitTime": 5000,
   "enableAlphaSort": true,
-  "enableRelationSuggestor": false,
+  "enableRelationSuggestor": true,
   "fieldSuggestor": true,
   "filterImpliedSiblingsOfDifferentTypes": false,
   "jugglLayout": "hierarchy",
   "limitWriteBCCheckboxes": [
-    "parent",
-    "sibling",
-    "child",
-    "up",
     "parrent",
-    "same",
-    "down"
+    "child"
   ],
   "CHECKBOX_STATES_OVERWRITTEN": false,
   "gridHeatmap": false,
   "heatmapColour": "#af4141",
-  "hierarchyNotes": [
-    ""
-  ],
+  "hierarchyNotes": [],
   "HNUpField": "",
   "indexNotes": [
     "999 工具地圖"
@@ -43,12 +36,12 @@
   "namingSystemRegex": "",
   "namingSystemSplit": ".",
   "namingSystemEndsWithDelimiter": false,
-  "refreshOnNoteChange": true,
+  "refreshOnNoteChange": false,
   "useAllMetadata": true,
   "openMatrixOnLoad": true,
   "openDuckOnLoad": false,
   "openDownOnLoad": false,
-  "parseJugglLinksWithoutJuggl": false,
+  "parseJugglLinksWithoutJuggl": true,
   "showNameOrType": true,
   "showRelationType": true,
   "regexNoteField": "",
@@ -58,7 +51,7 @@
   "showAllAliases": true,
   "showBCs": true,
   "showBCsInEditLPMode": true,
-  "showRefreshNotice": true,
+  "showRefreshNotice": false,
   "showImpliedRelations": true,
   "showTrail": true,
   "showGrid": true,
@@ -76,18 +69,16 @@
     "parrent"
   ],
   "limitJumpToFirstFields": [
-    "up",
     "parrent",
-    "same",
     "sibling",
-    "down",
-    "child"
+    "child",
+    "prev"
   ],
   "showAll": "All",
   "noPathMessage": "This note has no real or implied parents",
   "tagNoteField": "",
-  "threadIntoNewPane": false,
-  "threadingTemplate": "{{field}} of {{current}}",
+  "threadIntoNewPane": true,
+  "threadingTemplate": "{{current}}",
   "threadingDirTemplates": {
     "up": "",
     "same": "",
@@ -103,15 +94,12 @@
   "userHiers": [
     {
       "up": [
-        "up",
         "parrent"
       ],
       "same": [
-        "same",
         "sibling"
       ],
       "down": [
-        "down",
         "child"
       ],
       "next": [
@@ -138,6 +126,6 @@
     "parentsParentsIsParent": false,
     "cousinsIsSibling": true
   },
-  "refreshOnNoteSave": true,
+  "refreshOnNoteSave": false,
   "showUpInJuggl": true
 }

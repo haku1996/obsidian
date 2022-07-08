@@ -2,10 +2,10 @@
   "legacyEditor": false,
   "livePreview": true,
   "showUnsupportedFiles": false,
-  "attachmentFolderPath": "Note/__/Attachment Storage",
+  "attachmentFolderPath": "__/Attachment Storage",
   "fileSortOrder": "alphabetical",
   "promptDelete": false,
-  "newFileLocation": "folder",
+  "newFileLocation": "current",
   "alwaysUpdateLinks": true,
   "trashOption": "system",
   "newFileFolderPath": "Miscellanous/待整理",
@@ -15,5 +15,12 @@
     "margin": "0",
     "downscalePercent": 100
   },
-  "newLinkFormat": "shortest"
+  "newLinkFormat": "shortest",
+  "defaultViewMode": "source",
+  "showLineNumber": true,
+  "rightToLeft": false,
+  "spellcheckLanguages": [
+    "en-US"
+  ],
+  "tabSize": 2
 }

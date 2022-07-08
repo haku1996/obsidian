@@ -1,4 +1,10 @@
-# sqlmap JSON/POST
+---
+date: 2022-07-06
+modified: 2022-07-08
+---
+---
+parrent: [[sqlmap]]
+---# sqlmap JSON/POST
 從 burp 將整個 request 存成 txt
 手動在 Host: 後綴加上 `:443` 用以指定 https
 手動在要測試的參數的值，後綴加上 `*` 用以指定參數

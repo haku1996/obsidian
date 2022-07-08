@@ -2,10 +2,11 @@
 data: a
 title: a
 category: a
-up: [[999 工具地圖]]
-down: [[sqlmap note]], [[sqkmap Record]]
+parrent: [[999 工具地圖]]
 aliases: a 
 tags: a
+date: 2022-06-23
+modified: 2022-07-08
 ---
 > 只針對比較常用的寫
 ---

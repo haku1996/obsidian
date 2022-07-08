@@ -1,3 +1,8 @@
+---
+parrent: [[sqlmap]]
+date: 2022-06-28
+modified: 2022-07-08
+---
 - [[#Options|Options]]
 	- [[#Options#-v, verbose 詳細程度|-v, verbose 詳細程度]]
 - [[#Target|Target]]

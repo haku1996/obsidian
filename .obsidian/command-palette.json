@@ -1,7 +1,8 @@
 {
   "pinned": [
-    "obsidian-mind-map:app:markmap-preview",
     "editor:focus-left",
-    "quickadd:choice:c5788a2f-e584-4247-b39e-0aa2a0244913"
+    "breadcrumbs:Refresh-Breadcrumbs-Index",
+    "dataview:dataview-force-refresh-views",
+    "breadcrumbs:new-file-with-curr-as-child"
   ]
 }
