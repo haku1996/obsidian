@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Journal/Daily Log/2022, 0708.md",
+            "file": "Note/__/Templater/日記模板.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -119,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/Daily Log/2022, 0708.md",
+                "file": "Note/__/Templater/日記模板.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal/Daily Log/2022, 0708.md"
+                "file": "Note/__/Templater/日記模板.md"
               }
             }
           },
@@ -209,15 +209,15 @@
   },
   "active": "e271d298008e47e3",
   "lastOpenFiles": [
+    "Note/__/Templater/日記模板.md",
+    "Note/__/Templater/卡片模板.md",
+    "999 任務追蹤.md",
+    "200 今日更動.md",
+    "Note/Obs 套件使用/Admonition.md",
     "Journal/Daily Log/2022, 0708.md",
     "Note/Tool/sqlmap/sqkmap Record.md",
     "Journal/Daily Log/2022, 0706.md",
     "Note/Tool/sqlmap/sqlmap.md",
-    "Note/Tool/sqlmap/sqlmap note.md",
-    "999 任務追蹤.md",
-    "Note/__/Templater/Tool.md",
-    "000 本周更動.md",
-    "Journal/Daily Log/2022, 0703.md",
-    "Note/__/Templater/日記模板.md"
+    "Note/Tool/sqlmap/sqlmap note.md"
   ]
 }
