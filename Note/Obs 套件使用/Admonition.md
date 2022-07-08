@@ -1,11 +1,9 @@
-# admonition
-## Usage
-### Simple
+## Simple Usage
 ```ad-note
 title: 123
 asd
 ```
-### Nested and Something Else
+## Nested and Something Else
 with Collapse, Icon-custom, color-custom, no-Content
 `````ad-note
 icon: instagram
@@ -26,7 +24,7 @@ color: 000, 000, 000
 
 This is in the original admonition.
 `````
-### Reference
+## Reference
 [Source from Official Doc.](https://github.com/valentine195/obsidian-admonition)
 
 | Type               | Aliases                     |

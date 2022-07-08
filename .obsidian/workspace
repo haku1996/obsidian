@@ -4,61 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "e271d298008e47e3",
+        "id": "ec9c04319178c708",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Note/__/Templater/日記模板.md",
-            "mode": "source",
-            "backlinks": true,
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "0c1f58eebd103922",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Journal/Daily Log/2022, 0706.md",
-            "mode": "source",
-            "backlinks": true,
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "87446a66eb4dcb00",
-        "type": "leaf",
-        "state": {
-          "type": "kanban",
-          "state": {
-            "file": "999 任務追蹤.md"
-          }
-        }
-      },
-      {
-        "id": "812bef38406483c2",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Note/Tool/sqlmap/sqlmap note.md",
-            "mode": "source",
-            "backlinks": true,
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "99597de7b65a8267",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Note/__/Templater/日記模板.md",
+            "file": "Journal/Daily Log/2022, 0708.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -103,12 +54,28 @@
       }
     ],
     "direction": "horizontal",
-    "width": 294
+    "width": 240
   },
   "right": {
     "id": "8dabf608ff974e60",
     "type": "split",
     "children": [
+      {
+        "id": "ab37d4cd8059167f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e92e11b2537cf898",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Journal/Daily Log/2022, 0708.md"
+              }
+            }
+          }
+        ]
+      },
       {
         "id": "cfa722f117e3c6b6",
         "type": "tabs",
@@ -119,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Note/__/Templater/日記模板.md",
+                "file": "Journal/Daily Log/2022, 0708.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,14 +98,6 @@
             }
           },
           {
-            "id": "d173bf478f778cba",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
-            }
-          },
-          {
             "id": "4f326b48ee93567d",
             "type": "leaf",
             "state": {
@@ -147,24 +106,6 @@
                 "sortOrder": "frequency",
                 "useHierarchy": true
               }
-            }
-          },
-          {
-            "id": "e92e11b2537cf898",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Note/__/Templater/日記模板.md"
-              }
-            }
-          },
-          {
-            "id": "ebdee09c3c465e87",
-            "type": "leaf",
-            "state": {
-              "type": "todo",
-              "state": {}
             }
           },
           {
@@ -200,24 +141,23 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 349.5,
-    "collapsed": true
+    "width": 349.5
   },
-  "active": "e271d298008e47e3",
+  "active": "ec9c04319178c708",
   "lastOpenFiles": [
-    "Note/__/Templater/日記模板.md",
-    "Note/__/Templater/卡片模板.md",
-    "999 任務追蹤.md",
-    "200 今日更動.md",
-    "Note/Obs 套件使用/Admonition.md",
     "Journal/Daily Log/2022, 0708.md",
-    "Note/Tool/sqlmap/sqkmap Record.md",
-    "Journal/Daily Log/2022, 0706.md",
-    "Note/Tool/sqlmap/sqlmap.md",
-    "Note/Tool/sqlmap/sqlmap note.md"
+    "Tmp.md",
+    "101 看板-任務追蹤.md",
+    "100 看板-技術追蹤.md",
+    "999 工具地圖.md",
+    "Note/工具使用/漏洞利用/sqlmap/sqlmap.md",
+    "Note/工具使用/漏洞利用/sqlmap/sqkmap Record.md",
+    "Note/工具使用/偵查類/Burp.md",
+    "Note/工具使用/漏洞利用/msfvenom.md",
+    "Note/工具使用/漏洞利用/msf.md"
   ]
 }

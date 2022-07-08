@@ -27,12 +27,12 @@
       "openFileInMode": "default"
     },
     {
-      "id": "d54c52d8-0a0c-484a-b09a-de9d572dd748",
-      "name": "新增待辦事項",
+      "id": "c5788a2f-e584-4247-b39e-0aa2a0244913",
+      "name": "New A TODO",
       "type": "Capture",
       "command": true,
       "appendLink": false,
-      "captureTo": "999 任務追蹤.md",
+      "captureTo": "101 看板-任務追蹤.md",
       "captureToActiveFile": false,
       "createFileIfItDoesntExist": {
         "enabled": false,
@@ -42,40 +42,6 @@
       "format": {
         "enabled": true,
         "format": "- [ ] {{VALUE:待辦事項}}"
-      },
-      "insertAfter": {
-        "enabled": true,
-        "after": "## To Do",
-        "insertAtEnd": true,
-        "createIfNotFound": false,
-        "createIfNotFoundLocation": "top"
-      },
-      "prepend": false,
-      "task": false,
-      "openFileInNewTab": {
-        "enabled": false,
-        "direction": "vertical",
-        "focus": true
-      },
-      "openFile": false,
-      "openFileInMode": "default"
-    },
-    {
-      "id": "c5788a2f-e584-4247-b39e-0aa2a0244913",
-      "name": "新增待辦事項 with DueDate",
-      "type": "Capture",
-      "command": true,
-      "appendLink": false,
-      "captureTo": "999 任務追蹤.md",
-      "captureToActiveFile": false,
-      "createFileIfItDoesntExist": {
-        "enabled": false,
-        "createWithTemplate": false,
-        "template": ""
-      },
-      "format": {
-        "enabled": true,
-        "format": "- [ ] {{VALUE:待辦事項?}} @[[{{VDATE:Due Date? (format:M/d HHmm),MM/DD]]@@{HH:mm}}}\n"
       },
       "insertAfter": {
         "enabled": true,

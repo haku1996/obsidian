@@ -31,23 +31,23 @@
   ],
   "CHECKBOX_STATES_OVERWRITTEN": false,
   "gridHeatmap": false,
-  "heatmapColour": "  #fe8019",
+  "heatmapColour": "#af4141",
   "hierarchyNotes": [
     ""
   ],
   "HNUpField": "",
   "indexNotes": [
-    ""
+    "999 工具地圖"
   ],
   "namingSystemField": "",
   "namingSystemRegex": "",
   "namingSystemSplit": ".",
   "namingSystemEndsWithDelimiter": false,
-  "refreshOnNoteChange": false,
+  "refreshOnNoteChange": true,
   "useAllMetadata": true,
   "openMatrixOnLoad": true,
-  "openDuckOnLoad": true,
-  "openDownOnLoad": true,
+  "openDuckOnLoad": false,
+  "openDownOnLoad": false,
   "parseJugglLinksWithoutJuggl": false,
   "showNameOrType": true,
   "showRelationType": true,
@@ -57,7 +57,7 @@
   "showAllPathsIfNoneToIndexNote": false,
   "showAllAliases": true,
   "showBCs": true,
-  "showBCsInEditLPMode": false,
+  "showBCsInEditLPMode": true,
   "showRefreshNotice": true,
   "showImpliedRelations": true,
   "showTrail": true,
@@ -73,11 +73,6 @@
     4
   ],
   "limitTrailCheckboxes": [
-    "up",
-    "same",
-    "down",
-    "next",
-    "prev",
     "parrent"
   ],
   "limitJumpToFirstFields": [
@@ -102,7 +97,7 @@
   },
   "threadUnderCursor": false,
   "trailSeperator": "→",
-  "treatCurrNodeAsImpliedSibling": false,
+  "treatCurrNodeAsImpliedSibling": true,
   "trimDendronNotes": false,
   "respectReadableLineLength": true,
   "userHiers": [
@@ -137,12 +132,12 @@
   "impliedRelations": {
     "siblingIdentity": false,
     "sameParentIsSibling": true,
-    "siblingsSiblingIsSibling": false,
-    "siblingsParentIsParent": false,
-    "parentsSiblingsIsParents": false,
+    "siblingsSiblingIsSibling": true,
+    "siblingsParentIsParent": true,
+    "parentsSiblingsIsParents": true,
     "parentsParentsIsParent": false,
-    "cousinsIsSibling": false
+    "cousinsIsSibling": true
   },
   "refreshOnNoteSave": true,
-  "showUpInJuggl": false
+  "showUpInJuggl": true
 }

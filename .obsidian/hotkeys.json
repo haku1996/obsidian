@@ -41,5 +41,40 @@
       ],
       "key": "I"
     }
+  ],
+  "editor:fold-all": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "W"
+    }
+  ],
+  "obsidian-mind-map:app:markmap-preview": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "E"
+    }
+  ],
+  "editor:unfold-all": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "Q"
+    }
+  ],
+  "quickadd:choice:c5788a2f-e584-4247-b39e-0aa2a0244913": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "CapsLock"
+    }
   ]
 }

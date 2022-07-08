@@ -2,5 +2,5 @@
   "folder": "Journal/Daily Log",
   "format": "YYYY, MMDD",
   "autorun": true,
-  "template": "Note/__/Templater/日記模板"
+  "template": "__/Templater/日記模板"
 }
