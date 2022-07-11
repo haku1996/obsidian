@@ -4,22 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "04ce29766f43d211",
-        "type": "leaf",
-        "pinned": true,
-        "state": {
-          "type": "juggl_view",
-          "state": {},
-          "pinned": true
-        }
-      },
-      {
-        "id": "5f4b21428cfc1857",
+        "id": "005ff943e3778d12",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Note/工具使用/msf 1.md",
+            "file": "Note/工具使用/ffuf.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -64,7 +54,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 258
+    "width": 287
   },
   "right": {
     "id": "8dabf608ff974e60",
@@ -80,7 +70,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Note/工具使用/msf 1.md"
+                "file": "Note/工具使用/ffuf.md"
               }
             }
           },
@@ -112,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Note/工具使用/msf 1.md",
+                "file": "Note/工具使用/ffuf.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,23 +157,23 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
     "width": 349.5
   },
-  "active": "5f4b21428cfc1857",
+  "active": "005ff943e3778d12",
   "lastOpenFiles": [
-    "Note/工具使用/msf 1.md",
-    "Note/工具使用/msf.md",
-    "Note/工具使用/msf 2.md",
-    "999 工具地圖 1.md",
-    "999 工具地圖.md",
-    "Note/工具使用/sqlmap note.md",
-    "Note/工具使用/child of msf.md",
-    "Note/工具使用/msfvenom.md",
+    "Note/工具使用/ffuf.md",
+    "Note/工具使用/Burp 1.md",
     "Note/工具使用/sqlmap.md",
-    "Note/工具使用/sqlmap Record.md"
+    "Note/工具使用/nmap.md",
+    "Note/Obs 套件使用/Admonition.md",
+    "Note/Obs 套件使用/Breadcrumbs.md",
+    "999 工具地圖.md",
+    "101 看板-任務追蹤.md",
+    "100 看板-技術追蹤.md",
+    "Note/工具使用/msfvenom.md"
   ]
 }
