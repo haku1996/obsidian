@@ -13,7 +13,7 @@ A Web Fuzzer by Golang  [Github: ffuf/ffuf](https://github.com/ffuf/ffuf)
 ## Usage
 ```
 ```
-![[Pasted image 20220711101454.png]]
+![[Pasted image 20220712123603.png]]
 ### Official Usage Example
 ```bash
 # fuzz, match 全部的狀態碼，過濾掉 size=42 的 response，詳細且上色
