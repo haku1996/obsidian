@@ -6,9 +6,8 @@ modified: 2022-07-11
 ```ad-info
 title: 在 URL, headers, POST data 裡的任何使用 關鍵字"FUZZ"定義測試 
 
-A Web Fuzzer by Golang
-[Github: ffuf/ffuf](https://github.com/ffuf/ffuf)
-[Doc](https://codingo.io/tools/ffuf/bounty/2020/09/17/everything-you-need-to-know-about-ffuf.html)
+A Web Fuzzer by Golang  [Github: ffuf/ffuf](https://github.com/ffuf/ffuf) 
+[Doc](https://codingo.io/tools/ffuf/bounty/2020/09/17/everything-you-need-to-know-about-ffuf.html) 
 字典 Wordlists [Github: danielmiessler/SecLists](https://github.com/danielmiessler/SecLists/)
 ```
 ## Usage
@@ -16,7 +15,7 @@ A Web Fuzzer by Golang
 ```
 ![[Pasted image 20220711101454.png]]
 ### Official Usage Example
-```sh
+```bash
 # fuzz, match 全部的狀態碼，過濾掉 size=42 的 response，詳細且上色
 $ ffuf -w wordlist.txt -u https://example.org/FUZZ -mc all -fs 42 -c -v
 
@@ -24,7 +23,7 @@ $ ffuf -w wordlist.txt -u https://example.org/FUZZ -mc all -fs 42 -c -v
 $ ffuf -w hosts.txt -u https://example.org/ -H "Host: FUZZ" -mc 200
 
 # fuzz 指定使用 POST，帶指定 HEADERS，FUZZ 在 name 上，過濾掉含有 "error" 字元的 response
-ffuf -w entries.txt -u https://example.org/ -X POST -H "Content-Type: application/json" -d '{"name": "FUZZ", "anotherkey": "anothervalue"}' -fr "error"
+$ ffuf -w entries.txt -u https://example.org/ -X POST -H "Content-Type: application/json" -d '{"name": "FUZZ", "anotherkey": "anothervalue"}' -fr "error"
 
 # Fuzz multiple locations. Match only responses reflecting the value of "VAL" keyword. Colored.
 $ ffuf -w params.txt:PARAM -w values.txt:VAL -u https://example.org/?PARAM=VAL -mr "VAL" -c
@@ -52,8 +51,9 @@ rq = request, r = response
     `-ms` Match HTTP response size
     `-mt` Match how many milliseconds to the first response byte, either greater or less than. EG: >100 or <100
     `-mw` Match amount of words in response
-
-```sh
+---
+### Example Usage
+```bash
 #Typical directory discovery
 $ ffuc -w /path/to/wordlists -u https://target/FUZZ
 
@@ -72,11 +72,14 @@ $ ffuf -w /path/to/postdata.txt -X POST -d "username=admin\&password=FUZZ" -u ht
 # Maximum execution time
 	# This stops **the entire** process after a given time (in seconds)
 $ ffuf -w /path/to/wordlist -u https://target/FUZZ -maxtime 60
+
+
 	# When working with recursion, you can control the maxtime **per job** using `-maxtime-job`. This will stop the current job after a given time (in seconds) and continue with the next one. New jobs are created when the recursion functionality detects a subdirectory.
 $ ffuf -w /path/to/wordlist -u https://target/FUZZ -maxtime-job 60 -recursion -recursion-depth 2
 
 It is also possible to combine both flags limiting the per job maximum execution time as well as the overall execution time. If you do not use recursion then both flags behave equally.
 ```
+
 ### ALL Param
 *For A better Read-exp* **[Get to Github](https://github.com/ffuf/ffuf#usage)**
 There are param usage and interactive mode usage.
@@ -105,26 +108,6 @@ OUTPUT OPTIONS:
 ```
 
 
-```
-EXAMPLE USAGE:
-  Fuzz file paths from wordlist.txt, match all responses but filter out those with content-size 42.
-  Colored, verbose output.
-  
-    ffuf -w wordlist.txt -u https://example.org/FUZZ -mc all -fs 42 -c -v
-
-  Fuzz Host-header, match HTTP 200 responses.
-    ffuf -w hosts.txt -u https://example.org/ -H "Host: FUZZ" -mc 200
-
-  Fuzz POST JSON data. Match all responses not containing text "error".
-    ffuf -w entries.txt -u https://example.org/ -X POST -H "Content-Type: application/json" \
-      -d '{"name": "FUZZ", "anotherkey": "anothervalue"}' -fr "error"
-
-  Fuzz multiple locations. Match only responses reflecting the value of "VAL" keyword. Colored.
-    ffuf -w params.txt:PARAM -w values.txt:VAL -u https://example.org/?PARAM=VAL -mr "VAL" -c
-
-  More information and examples: https://github.com/ffuf/ffuf
-
-```
 
 ## Installation
 ```sh

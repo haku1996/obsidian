@@ -7,8 +7,13 @@
         "id": "56fae8b394eca340",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Note/工具使用/ffuf.md",
+            "mode": "preview",
+            "backlinks": true,
+            "source": true
+          }
         }
       }
     ],
@@ -64,7 +69,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Note/工具使用/ffuf.md"
+              }
             }
           },
           {
@@ -95,6 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Note/工具使用/ffuf.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,15 +165,15 @@
   },
   "active": "56fae8b394eca340",
   "lastOpenFiles": [
-    "Note/工具使用/未命名.md",
     "Note/工具使用/ffuf.md",
+    "Note/工具使用/sqlmap Record.md",
+    "Note/工具使用/sqlmap note.md",
+    "999 工具地圖.md",
+    "Note/工具使用/未命名.md",
     "Note/工具使用/Burp 1.md",
     "Note/工具使用/sqlmap.md",
     "Note/工具使用/nmap.md",
     "Note/Obs 套件使用/Admonition.md",
-    "Note/Obs 套件使用/Breadcrumbs.md",
-    "999 工具地圖.md",
-    "101 看板-任務追蹤.md",
-    "100 看板-技術追蹤.md"
+    "Note/Obs 套件使用/Breadcrumbs.md"
   ]
 }
