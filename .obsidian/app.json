@@ -5,7 +5,7 @@
   "attachmentFolderPath": "__/Attachment Storage",
   "fileSortOrder": "alphabetical",
   "promptDelete": false,
-  "newFileLocation": "current",
+  "newFileLocation": "root",
   "alwaysUpdateLinks": true,
   "trashOption": "system",
   "newFileFolderPath": "Miscellanous/待整理",
