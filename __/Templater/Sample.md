@@ -1,3 +1,5 @@
+[Vault | Obsidian Plugin Developer Docs (marcus.se.net)](https://marcus.se.net/obsidian-plugin-docs/api/classes/Vault#getfiles)
+
 ```js
 <%
 	(await tp.system.suggester(
