@@ -1,3 +1,18 @@
+```js
+<%
+	(await tp.system.suggester(
+		(item) => 
+			item.basename,
+			app.vault.getMarkdownFiles().filter(
+				file => 
+					file.path.startsWith("Note")
+				),
+      false,
+      "Enter Parent Note")
+	).basename 
+%>
+```
+
 File content: <% tp.file.content %>
 
 File creation date: <% tp.file.creation_date() %>
@@ -33,3 +48,7 @@ File tags: <% tp.file.tags %>
 
 File title: <% tp.file.title %>
 Strip the Zettelkasten ID of title (if space separated): <% tp.file.title.split(" ")[1] %>
+
+
+<% tp.user.my_script("Hello World!") %>
+<% tp.system.suggester(["🔥 Priority 1", "Priority 2"

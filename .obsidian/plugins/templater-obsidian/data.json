@@ -11,7 +11,7 @@
   "auto_jump_to_cursor": true,
   "enable_system_commands": false,
   "shell_path": "",
-  "user_scripts_folder": "",
+  "user_scripts_folder": "__/JS",
   "enable_folder_templates": true,
   "folder_templates": [
     {
@@ -23,8 +23,5 @@
   "enabled_templates_hotkeys": [
     ""
   ],
-  "startup_templates": [
-    "",
-    ""
-  ]
+  "startup_templates": []
 }
