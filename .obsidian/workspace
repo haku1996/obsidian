@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Note/工具使用/sqlmap Record.md",
+            "file": "Journal/Daily Log/2022, 0714.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -70,7 +70,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Note/工具使用/sqlmap Record.md"
+                "file": "Journal/Daily Log/2022, 0714.md"
               }
             }
           },
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Note/工具使用/sqlmap Record.md",
+                "file": "Journal/Daily Log/2022, 0714.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
