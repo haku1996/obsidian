@@ -1,9 +1,11 @@
 ---
-date: 2022-07-06
-modified: 2022-07-08
+date: 2022-06-28
+modified: 2022-07-14
 ---
+## Metadata
+up:: [[sqlmap]]
+
 ---
-parrent: [[sqlmap]]
 ---# sqlmap JSON/POST
 從 burp 將整個 request 存成 txt
 手動在 Host: 後綴加上 `:443` 用以指定 https

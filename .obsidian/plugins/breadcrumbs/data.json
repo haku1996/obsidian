@@ -21,33 +21,33 @@
   "filterImpliedSiblingsOfDifferentTypes": false,
   "jugglLayout": "hierarchy",
   "limitWriteBCCheckboxes": [
-    "parrent",
-    "child"
+    "up",
+    "down"
   ],
   "CHECKBOX_STATES_OVERWRITTEN": false,
-  "gridHeatmap": false,
-  "heatmapColour": "#af4141",
+  "gridHeatmap": true,
+  "heatmapColour": "#270b6f",
   "hierarchyNotes": [],
   "HNUpField": "",
   "indexNotes": [
     "999 工具地圖"
   ],
-  "namingSystemField": "",
+  "namingSystemField": "down",
   "namingSystemRegex": "",
   "namingSystemSplit": ".",
   "namingSystemEndsWithDelimiter": false,
   "refreshOnNoteChange": false,
   "useAllMetadata": true,
   "openMatrixOnLoad": true,
-  "openDuckOnLoad": false,
-  "openDownOnLoad": false,
+  "openDuckOnLoad": true,
+  "openDownOnLoad": true,
   "parseJugglLinksWithoutJuggl": true,
   "showNameOrType": true,
   "showRelationType": true,
   "regexNoteField": "",
   "relSuggestorTrigger": "\\",
   "rlLeaf": true,
-  "showAllPathsIfNoneToIndexNote": false,
+  "showAllPathsIfNoneToIndexNote": true,
   "showAllAliases": true,
   "showBCs": true,
   "showBCsInEditLPMode": true,
@@ -66,19 +66,17 @@
     4
   ],
   "limitTrailCheckboxes": [
-    "parrent"
+    "up"
   ],
   "limitJumpToFirstFields": [
-    "parrent",
-    "sibling",
-    "child",
-    "prev"
+    "up",
+    "down"
   ],
   "showAll": "All",
   "noPathMessage": "This note has no real or implied parents",
-  "tagNoteField": "",
+  "tagNoteField": "up",
   "threadIntoNewPane": true,
-  "threadingTemplate": "{{current}}",
+  "threadingTemplate": "{{current}}_{{field}}",
   "threadingDirTemplates": {
     "up": "",
     "same": "",
@@ -94,29 +92,23 @@
   "userHiers": [
     {
       "up": [
-        "parrent"
+        "up"
       ],
-      "same": [
-        "sibling"
-      ],
+      "same": [],
       "down": [
-        "child"
+        "down"
       ],
-      "next": [
-        "next"
-      ],
-      "prev": [
-        "prev"
-      ]
+      "next": [],
+      "prev": []
     }
   ],
-  "writeBCsInline": false,
-  "showWriteAllBCsCmd": false,
+  "writeBCsInline": true,
+  "showWriteAllBCsCmd": true,
   "visGraph": "Force Directed Graph",
   "visRelation": "Parent",
   "visClosed": "Real",
   "visAll": "All",
-  "wikilinkIndex": true,
+  "wikilinkIndex": false,
   "impliedRelations": {
     "siblingIdentity": false,
     "sameParentIsSibling": true,

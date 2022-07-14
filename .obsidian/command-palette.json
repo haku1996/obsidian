@@ -3,6 +3,6 @@
     "editor:focus-left",
     "breadcrumbs:Refresh-Breadcrumbs-Index",
     "dataview:dataview-force-refresh-views",
-    "breadcrumbs:new-file-with-curr-as-child"
+    "breadcrumbs:new-file-with-curr-as-down"
   ]
 }

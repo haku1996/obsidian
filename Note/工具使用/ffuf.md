@@ -1,7 +1,7 @@
 ---
 parrent: ['999 工具地圖']
 date: 2022-07-11
-modified: 2022-07-11
+modified: 2022-07-14
 ---
 ```ad-info
 title: 在 URL, headers, POST data 裡的任何使用 關鍵字"FUZZ"定義測試 
