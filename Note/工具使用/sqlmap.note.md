@@ -104,3 +104,19 @@ T: Time
 ## Windows registry access
 
 ## General
+
+
+# 待整理
+
+
+' and '1'='1
+' and '1'='2
+
+-   --safe-url: 隔一会就访问一下的安全URL
+-   --safe-post: 访问安全URL时携带的POST数据
+-   --safe-req: 从文件中载入安全HTTP请求
+-   --safe-freq: 每次测试请求之后都会访问一下的安全URL
+
+
+AND boolean based found reflective values
+![[2022-07-07_12-28.png]]

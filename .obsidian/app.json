@@ -23,5 +23,6 @@
     "en-US"
   ],
   "tabSize": 2,
-  "strictLineBreaks": true
+  "strictLineBreaks": true,
+  "useMarkdownLinks": false
 }
