@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "ebc6533685263e0a",
+        "id": "3d747bd8250ff235",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Note/工具使用/sqlmap.Record.md",
+            "file": "Note/工具使用/graphQL.graphw00f.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -24,50 +24,38 @@
     "type": "split",
     "children": [
       {
-        "id": "662f6334243e1cb9",
+        "id": "9ec5f374f54f42d3",
         "type": "tabs",
         "children": [
           {
-            "id": "41f7545ffd046a4b",
+            "id": "ba6902fd80991062",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
               "state": {}
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "785c2e545088fd29",
+        "type": "tabs",
+        "children": [
           {
-            "id": "ba6902fd80991062",
+            "id": "2bfcc40b1bc859c3",
             "type": "leaf",
+            "pinned": true,
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Test.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "74d52a3e0fd9854e",
-            "type": "leaf",
-            "state": {
-              "type": "search",
-              "state": {
-                "query": "",
-                "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical"
-              }
+              "type": "recent-files",
+              "state": {},
+              "pinned": true
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 600
+    "width": 412
   },
   "right": {
     "id": "8dabf608ff974e60",
@@ -83,7 +71,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Note/工具使用/sqlmap.Record.md",
+                "file": "Note/工具使用/graphQL.graphw00f.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,11 +83,13 @@
             }
           },
           {
-            "id": "d173bf478f778cba",
+            "id": "e92e11b2537cf898",
             "type": "leaf",
             "state": {
-              "type": "calendar",
-              "state": {}
+              "type": "outline",
+              "state": {
+                "file": "Note/工具使用/graphQL.graphw00f.md"
+              }
             }
           },
           {
@@ -114,41 +104,61 @@
             }
           },
           {
-            "id": "e92e11b2537cf898",
+            "id": "ed12cda75d9675af",
             "type": "leaf",
             "state": {
-              "type": "outline",
-              "state": {
-                "file": "Note/工具使用/sqlmap.Record.md"
-              }
+              "type": "juggl_nodes",
+              "state": {}
             }
           },
           {
-            "id": "5cb0e3f7baf27b2d",
+            "id": "1f7cd4598ce16371",
             "type": "leaf",
             "state": {
-              "type": "advanced-tables-toolbar",
+              "type": "juggl_style",
               "state": {}
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
+      },
+      {
+        "id": "6e6c26e327c332bc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "74d52a3e0fd9854e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#excalidraw",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
-  "active": "ebc6533685263e0a",
+  "active": "3d747bd8250ff235",
   "lastOpenFiles": [
-    "001 今日更動.md",
-    "Note/環境使用/Docker.md",
-    "Note/工具使用/sqlmap.Record.md",
-    "Note/工具使用/sqlmap.Temper.md",
-    "Note/工具使用/sqlmap.note.md",
-    "Note/工具使用/sqlmap.md",
-    "999 工具地圖.md",
+    "__/Templater/工具模板.md",
+    "__/Templater/工具模板, 細節.md",
+    "Note/工具使用/graphQL.graphw00f.md",
+    "999 清單.md",
     "Note/工具使用/msfvenom.md",
-    "Note/工具使用/Toolmap.md",
-    "__/Templater/工具模板.md"
+    "Note/工具使用/netcat.md",
+    "Note/工具使用/msf.md",
+    "Note/工具使用/graphQL.md",
+    "Note/工具使用/sqlmap.note.md",
+    "Note/工具使用/Toolmap.md"
   ]
 }

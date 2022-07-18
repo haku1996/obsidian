@@ -1,7 +1,11 @@
 ---
-parrent: ['999 工具地圖']
 date: 2022-07-11
-modified: 2022-07-14
+modified: 2022-07-15
+---
+## Metadata
+up:: [[Toolmap]]
+status:: ing
+
 ---
 ```ad-info
 title: 在 URL, headers, POST data 裡的任何使用 關鍵字"FUZZ"定義測試 
@@ -11,7 +15,7 @@ A Web Fuzzer by Golang  [Github: ffuf/ffuf](https://github.com/ffuf/ffuf)
 字典 Wordlists [Github: danielmiessler/SecLists](https://github.com/danielmiessler/SecLists/)
 ```
 ## Usage
-```
+```bash
 ```
 ![[Pasted image 20220712123603.png]]
 ### Official Usage Example

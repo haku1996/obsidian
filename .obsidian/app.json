@@ -24,5 +24,6 @@
   ],
   "tabSize": 2,
   "strictLineBreaks": true,
-  "useMarkdownLinks": false
+  "useMarkdownLinks": false,
+  "useTab": true
 }

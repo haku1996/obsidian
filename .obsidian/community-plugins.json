@@ -13,12 +13,12 @@
   "quickadd",
   "obsidian-admonition",
   "obsidian-plugin-toc",
-  "obsidian-dynamic-toc",
   "obsidian-style-settings",
   "obsidian-linter",
-  "obsidian-contextual-typography",
   "obsidian-hider",
-  "sliding-panes-obsidian",
   "juggl",
+  "recent-files-obsidian",
+  "quick-explorer",
+  "sliding-panes-obsidian",
   "code-block-copy"
 ]

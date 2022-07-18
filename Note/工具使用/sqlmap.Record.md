@@ -4,6 +4,7 @@ modified: 2022-07-14
 ---
 ## Metadata
 up:: [[sqlmap]]
+status:: ing
 
 ---
 ## Record Usage
@@ -45,4 +46,5 @@ graphqlmap -u graphqlmap -u https://www.caco.com.tw/ims030/ims/storeinventory/gr
 ```
 graphqlmap -u https://www.caco.com.tw/ims030/ims/storeinventory/graphql/listbyd1r1storeitemno -v --method POST --headers '{"Authorization" : "Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJ1cG4iOiLjhIzwqaWW6IOE6ZOo6aC38JGEvuaPmPCimLjwl6q-8K2OqfCQmqXjiKvwqpek2Y3wpKGn5p2nIiwic3ViIjoiU0VDVVJJVFlfTE9HSU5fVEVNUCIsImdyb3VwcyI6WyJ0ZW1wb3JhcnkiXSwiY21wdWlkIjoiQjEwRjAwMDAyMSIsInN0b3JldWlkIjoiQjEwRjAwMDBYRCIsInVpZCI6IuOEjPCppZbog4Tpk6jpoLfwkYS-5o-Y8KKYuPCXqr7wrY6p8JCapeOIq_Cql6TZjfCkoafmnaciLCJlbnRhY2N0dWlkIjoiY29tLmNhY28uZXJwIiwid2Vic2l0ZXVpZCI6IkpyVk52SG1TQjg2ZHlWZngiLCJ1c2VyaWQiOiJ0ZW1wb3JhcnkiLCJ1c2VybmFtZSI6InRlbXBvcmFyeSIsImlhdCI6MTY1Nzg0OTU0MCwiZXhwIjoxNjU3ODc4MzQwLCJqdGkiOiI3NmU4N2QxOS1hNjVmLTRiMTgtODQ1ZC1kZTkyZTlhZmM0NTciLCJpc3MiOiJodHRwczovL3d3dy5jYWNvLmNvbS9pc3N1ZXIiLCJhdWQiOiJhbGwifQ.Fj-MN1SI_qeKVIBEbHbSaPPa70G9TQTm9IJ5a7dFB2NoF5CutJN1j61FORrKxkn5bPON1pjrk8tcXl7sAjtsArOiCcBj-nalbEvBtQg_vpZQu1BW3W79JjE8wt_g_FHhS7MBctMdFvUl61SbWuLx-eY9sFBjLXHGDTU34OI2rE-GtKKHEdh8utAq9DPtWGR8CWiK_rrCBDLTVKZ0Mln_jobrBpaA41kiK0I6S55NCZf58-L5PaNSg9898J3AcAinp1D06rNRUWLAhpU4UyDH8OMWQPUHB-vu5wvWrk-n0F4bIBjwbVfzhBw4mfjcrG_esTQ5eTLwpxAsrVz9k4rMRA"}'
 ```
+
 

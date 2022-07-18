@@ -139,7 +139,143 @@
         "collapsed": true
       },
       "active": "7875a1d6b5f6b0c3"
+    },
+    "O": {
+      "main": {
+        "id": "9d205418d3d2e47e",
+        "type": "split",
+        "children": [
+          {
+            "id": "3d747bd8250ff235",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "999 清單.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "0da84f7d4184135c",
+        "type": "split",
+        "children": [
+          {
+            "id": "9ec5f374f54f42d3",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "ba6902fd80991062",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {}
+                }
+              }
+            ]
+          },
+          {
+            "id": "785c2e545088fd29",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "2bfcc40b1bc859c3",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "recent-files",
+                  "state": {},
+                  "pinned": true
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 412
+      },
+      "right": {
+        "id": "8dabf608ff974e60",
+        "type": "split",
+        "children": [
+          {
+            "id": "cfa722f117e3c6b6",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "711c6a96c27a0651",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "999 清單.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "e92e11b2537cf898",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "999 清單.md"
+                  }
+                }
+              },
+              {
+                "id": "4f326b48ee93567d",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  }
+                }
+              }
+            ],
+            "currentTab": 2
+          },
+          {
+            "id": "6e6c26e327c332bc",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "74d52a3e0fd9854e",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "tag:#excalidraw",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 300,
+        "collapsed": true
+      },
+      "active": "3d747bd8250ff235"
     }
   },
-  "active": "Overview"
+  "active": "O"
 }
