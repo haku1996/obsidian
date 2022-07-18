@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "999 清單",
-      "path": "999 清單.md"
+      "basename": "SSRFire",
+      "path": "Note/工具使用/SSRFire.md"
+    },
+    {
+      "basename": "Xsser",
+      "path": "Note/工具使用/Xsser.md"
     },
     {
       "basename": "sqlmap",
       "path": "Note/工具使用/sqlmap.md"
     },
     {
-      "basename": "graphQL.graphw00f",
-      "path": "Note/工具使用/graphQL.graphw00f.md"
+      "basename": "999 清單",
+      "path": "999 清單.md"
     },
     {
       "basename": "工具模板, 細節",
@@ -19,6 +23,26 @@
     {
       "basename": "工具模板",
       "path": "__/Templater/工具模板.md"
+    },
+    {
+      "basename": "Docker",
+      "path": "Note/環境使用/Docker.md"
+    },
+    {
+      "basename": "Basic Linux",
+      "path": "Note/環境使用/Basic Linux.md"
+    },
+    {
+      "basename": "Burp",
+      "path": "Note/工具使用/Burp.md"
+    },
+    {
+      "basename": "008 Tmp",
+      "path": "008 Tmp.md"
+    },
+    {
+      "basename": "graphQL.graphw00f",
+      "path": "Note/工具使用/graphQL.graphw00f.md"
     },
     {
       "basename": "msfvenom",
