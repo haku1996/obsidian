@@ -118,6 +118,30 @@
               "type": "juggl_style",
               "state": {}
             }
+          },
+          {
+            "id": "751701bb6f72e28c",
+            "type": "leaf",
+            "state": {
+              "type": "BC-matrix",
+              "state": {}
+            }
+          },
+          {
+            "id": "5875ea5717d728d1",
+            "type": "leaf",
+            "state": {
+              "type": "BC-ducks",
+              "state": {}
+            }
+          },
+          {
+            "id": "70851f3f7f66c142",
+            "type": "leaf",
+            "state": {
+              "type": "BC-tree",
+              "state": {}
+            }
           }
         ],
         "currentTab": 2
@@ -148,7 +172,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "3d747bd8250ff235",
+  "active": "70851f3f7f66c142",
   "lastOpenFiles": [
     "__/Templater/工具模板.md",
     "__/Templater/工具模板, 細節.md",
