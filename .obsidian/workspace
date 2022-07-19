@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Note/工具使用/SSRFire.md",
+                "file": "Note/工具使用/sqlmap.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Note/工具使用/SSRFire.md",
+                "file": "Note/工具使用/sqlmap.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Note/工具使用/SSRFire.md"
+                "file": "Note/工具使用/sqlmap.md"
               }
             }
           },
@@ -178,7 +178,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#excalidraw",
+                "query": "cookie",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -191,11 +191,11 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "active": "7f02bcabbfd8980f",
   "lastOpenFiles": [
+    "Note/工具使用/SSRFire.md",
     "Note/工具使用/Xsser.md",
     "Note/工具使用/sqlmap.md",
     "999 清單.md",
@@ -204,7 +204,6 @@
     "Note/環境使用/Docker.md",
     "Note/環境使用/Basic Linux.md",
     "Note/工具使用/Burp.md",
-    "008 Tmp.md",
-    "Note/工具使用/graphQL.graphw00f.md"
+    "008 Tmp.md"
   ]
 }
