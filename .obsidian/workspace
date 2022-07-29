@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Note/工具使用/sqlmap.Record.md",
+                "file": "Note/工具使用/sqlmap.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Note/工具使用/sqlmap.Record.md"
+                "file": "Note/工具使用/sqlmap.md"
               }
             }
           },
@@ -193,8 +193,9 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "7f02bcabbfd8980f",
+  "active": "3d747bd8250ff235",
   "lastOpenFiles": [
+    "Note/工具使用/sqlmap.Record.md",
     "999 清單.md",
     "008 Tmp.md",
     "Note/工具使用/sqlmap.md",
@@ -203,7 +204,6 @@
     "__/Templater/工具模板, 細節.md",
     "__/Templater/工具模板.md",
     "Note/環境使用/Docker.md",
-    "Note/環境使用/Basic Linux.md",
-    "Note/工具使用/Burp.md"
+    "Note/環境使用/Basic Linux.md"
   ]
 }
