@@ -71,6 +71,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Note/工具使用/sqlmap.Record.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,7 +87,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Note/工具使用/sqlmap.Record.md"
+              }
             }
           },
           {
