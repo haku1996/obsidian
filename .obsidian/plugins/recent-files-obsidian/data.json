@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "ffuf",
+      "path": "Note/工具使用/ffuf.md"
+    },
+    {
+      "basename": "999 清單",
+      "path": "999 清單.md"
+    },
+    {
       "basename": "sqlmap.Record",
       "path": "Note/工具使用/sqlmap.Record.md"
     },
@@ -11,10 +19,6 @@
     {
       "basename": "sqlmap",
       "path": "Note/工具使用/sqlmap.md"
-    },
-    {
-      "basename": "999 清單",
-      "path": "999 清單.md"
     },
     {
       "basename": "008 Tmp",

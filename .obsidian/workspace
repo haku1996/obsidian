@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Note/工具使用/sqlmap.Record.md",
+            "file": "Note/工具使用/ffuf.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -71,7 +71,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Note/工具使用/sqlmap.Record.md",
+                "file": "Note/工具使用/ffuf.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,7 +88,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Note/工具使用/sqlmap.Record.md"
+                "file": "Note/工具使用/ffuf.md"
               }
             }
           },
@@ -171,12 +171,12 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "ba6902fd80991062",
+  "active": "7f02bcabbfd8980f",
   "lastOpenFiles": [
+    "999 清單.md",
+    "Note/工具使用/sqlmap.Record.md",
     "Note/工具使用/sqlmap.note.md",
     "Note/工具使用/sqlmap.md",
-    "Note/工具使用/sqlmap.Record.md",
-    "999 清單.md",
     "008 Tmp.md",
     "Note/工具使用/Xsser.md",
     "Note/工具使用/SSRFire.md",
