@@ -1,6 +1,6 @@
 {
-  "commitMessage": "cba's Dell backup: {{date}}",
-  "autoCommitMessage": "cba's Dell backup: {{date}}",
+  "commitMessage": "cba's backup: {{date}}",
+  "autoCommitMessage": "cba's backup: {{date}}",
   "commitDateFormat": "YY-MMDD a HH",
   "autoSaveInterval": 40,
   "autoPushInterval": 0,
