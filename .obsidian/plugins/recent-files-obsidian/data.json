@@ -1,16 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "Untitled",
-      "path": "CRTP/Untitled.md"
+      "basename": "ffuf",
+      "path": "Note/工具使用/ffuf.md"
+    },
+    {
+      "basename": "Docker",
+      "path": "Note/環境使用/Docker.md"
     },
     {
       "basename": "999 清單",
       "path": "999 清單.md"
     },
     {
-      "basename": "ffuf",
-      "path": "Note/工具使用/ffuf.md"
+      "basename": "101 看板-任務追蹤",
+      "path": "101 看板-任務追蹤.md"
+    },
+    {
+      "basename": "100 看板-技術追蹤",
+      "path": "100 看板-技術追蹤.md"
     },
     {
       "basename": "sqlmap.Record",
@@ -43,10 +51,6 @@
     {
       "basename": "工具模板",
       "path": "__/Templater/工具模板.md"
-    },
-    {
-      "basename": "Docker",
-      "path": "Note/環境使用/Docker.md"
     },
     {
       "basename": "Basic Linux",

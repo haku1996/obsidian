@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "39c49861a9d702ba",
+        "id": "7f02bcabbfd8980f",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "CRTP/Untitled.md",
+            "file": "Note/工具使用/ffuf.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -55,7 +55,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 511.01155853271484
+    "width": 412
   },
   "right": {
     "id": "8dabf608ff974e60",
@@ -71,7 +71,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CRTP/Untitled.md",
+                "file": "Note/工具使用/ffuf.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,7 +88,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CRTP/Untitled.md"
+                "file": "Note/工具使用/ffuf.md"
               }
             }
           },
@@ -171,17 +171,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "39c49861a9d702ba",
+  "active": "7f02bcabbfd8980f",
   "lastOpenFiles": [
-    "Untitled.md",
+    "Note/環境使用/Docker.md",
     "999 清單.md",
+    "101 看板-任務追蹤.md",
+    "100 看板-技術追蹤.md",
     "Note/工具使用/ffuf.md",
     "Note/工具使用/sqlmap.Record.md",
     "Note/工具使用/sqlmap.note.md",
     "Note/工具使用/sqlmap.md",
     "008 Tmp.md",
-    "Note/工具使用/Xsser.md",
-    "Note/工具使用/SSRFire.md",
-    "__/Templater/工具模板, 細節.md"
+    "Note/工具使用/Xsser.md"
   ]
 }
